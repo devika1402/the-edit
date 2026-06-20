@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1715" height="520" viewBox="-7.5 30.0 1715.0 520.0">
+<rect x="-7.5" y="30.0" width="1715.0" height="520.0" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#343a40"/></marker></defs>
+<rect x="32.5" y="180.0" width="195.0" height="100.0" rx="24.0" ry="24.0" fill="#ffec99" stroke="#1e1e1e" stroke-width="2" />
+<rect x="272.5" y="180.0" width="195.0" height="100.0" rx="24.0" ry="24.0" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2" />
+<rect x="512.5" y="180.0" width="195.0" height="100.0" rx="24.0" ry="24.0" fill="#b2f2bb" stroke="#1e1e1e" stroke-width="2" />
+<rect x="752.5" y="180.0" width="195.0" height="100.0" rx="24.0" ry="24.0" fill="#96f2d7" stroke="#1e1e1e" stroke-width="2" />
+<rect x="992.5" y="180.0" width="195.0" height="100.0" rx="24.0" ry="24.0" fill="#ffd43b" stroke="#1e1e1e" stroke-width="2" />
+<rect x="1232.5" y="180.0" width="195.0" height="100.0" rx="24.0" ry="24.0" fill="#ffd8a8" stroke="#1e1e1e" stroke-width="2" />
+<rect x="1472.5" y="180.0" width="195.0" height="100.0" rx="24.0" ry="24.0" fill="#d0bfff" stroke="#1e1e1e" stroke-width="2" />
+<rect x="615.0" y="410.0" width="230.0" height="100.0" rx="24.0" ry="24.0" fill="#d0bfff" stroke="#1e1e1e" stroke-width="2" />
+<polyline points="227.5,230.0 272.5,230.0" fill="none" stroke="#343a40" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#ah)" />
+<polyline points="467.5,230.0 512.5,230.0" fill="none" stroke="#343a40" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#ah)" />
+<polyline points="707.5,230.0 752.5,230.0" fill="none" stroke="#343a40" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#ah)" />
+<polyline points="947.5,230.0 992.5,230.0" fill="none" stroke="#343a40" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#ah)" />
+<polyline points="1187.5,230.0 1232.5,230.0" fill="none" stroke="#343a40" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#ah)" />
+<polyline points="1427.5,230.0 1472.5,230.0" fill="none" stroke="#343a40" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#ah)" />
+<polyline points="636.1,280.0 703.9,410.0" fill="none" stroke="#343a40" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#ah)" />
+<polyline points="823.9,280.0 756.1,410.0" fill="none" stroke="#343a40" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#ah)" />
+<text x="130.0" y="97.6" font-family="Lilita One" font-size="26" fill="#1e1e1e" text-anchor="start">H&amp;M Recommender: Pipeline</text>
+<text x="130.0" y="127.0" font-family="Lilita One" font-size="16" fill="#868e96" text-anchor="start">(from README.md)</text>
+<text x="130.0" y="225.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">Raw H&amp;M CSVs</text>
+<text x="130.0" y="245.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">in Cloud Storage</text>
+<text x="370.0" y="225.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">Staging tables</text>
+<text x="370.0" y="245.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">in BigQuery</text>
+<text x="610.0" y="225.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">Customer &amp; item</text>
+<text x="610.0" y="245.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">feature tables</text>
+<text x="850.0" y="215.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">Retrieval:</text>
+<text x="850.0" y="235.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">~hundreds of</text>
+<text x="850.0" y="255.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">candidates / customer</text>
+<text x="1090.0" y="215.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">Ranking:</text>
+<text x="1090.0" y="235.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">CatBoost orders</text>
+<text x="1090.0" y="255.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">the candidates</text>
+<text x="1330.0" y="215.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">Guardrail re-ranker:</text>
+<text x="1330.0" y="235.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">cap categories</text>
+<text x="1330.0" y="255.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">&amp; bestsellers</text>
+<text x="1570.0" y="235.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">Top twelve</text>
+<text x="730.0" y="445.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">FastAPI endpoint:</text>
+<text x="730.0" y="465.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">fetch then rank</text>
+<text x="730.0" y="485.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">for one customer</text>
+</svg>

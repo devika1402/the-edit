@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1295" height="300" viewBox="10.0 30.0 1295.0 300.0">
+<rect x="10.0" y="30.0" width="1295.0" height="300.0" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#343a40"/></marker></defs>
+<rect x="50.0" y="190.0" width="200.0" height="100.0" rx="24.0" ry="24.0" fill="#b2f2bb" stroke="#1e1e1e" stroke-width="2" />
+<rect x="305.0" y="190.0" width="210.0" height="100.0" rx="24.0" ry="24.0" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2" />
+<rect x="567.5" y="190.0" width="215.0" height="100.0" rx="24.0" ry="24.0" fill="#ffd43b" stroke="#1e1e1e" stroke-width="2" />
+<rect x="835.0" y="190.0" width="190.0" height="100.0" rx="24.0" ry="24.0" fill="#ffd8a8" stroke="#1e1e1e" stroke-width="2" />
+<rect x="1075.0" y="190.0" width="190.0" height="100.0" rx="24.0" ry="24.0" fill="#d0bfff" stroke="#1e1e1e" stroke-width="2" />
+<polyline points="250.0,240.0 305.0,240.0" fill="none" stroke="#343a40" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#ah)" />
+<polyline points="515.0,240.0 567.5,240.0" fill="none" stroke="#343a40" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#ah)" />
+<polyline points="782.5,240.0 835.0,240.0" fill="none" stroke="#343a40" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#ah)" />
+<polyline points="1025.0,240.0 1075.0,240.0" fill="none" stroke="#343a40" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#ah)" />
+<text x="130.0" y="97.6" font-family="Lilita One" font-size="26" fill="#1e1e1e" text-anchor="start">Ranker: Candidates to Top-12</text>
+<text x="130.0" y="127.0" font-family="Lilita One" font-size="16" fill="#868e96" text-anchor="start">(from docs/MODEL_CARD.md)</text>
+<text x="150.0" y="235.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">Candidates</text>
+<text x="150.0" y="255.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">for a customer</text>
+<text x="410.0" y="225.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">29 features:</text>
+<text x="410.0" y="245.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">item, customer,</text>
+<text x="410.0" y="265.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">retrieval, interaction</text>
+<text x="675.0" y="235.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">CatBoost YetiRank,</text>
+<text x="675.0" y="255.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">grouped by customer</text>
+<text x="930.0" y="245.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">Ordered list</text>
+<text x="1170.0" y="245.6" font-family="Lilita One" font-size="16" fill="#1e1e1e" text-anchor="middle">Top twelve</text>
+</svg>
