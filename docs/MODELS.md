@@ -26,4 +26,4 @@ A customer with no purchase history before the cutoff has no feature row, so nei
 
 Training uses a sampled subset of customers, 30,000 of them, with negatives capped per customer, so it finishes in minutes on a laptop. Using all 1.3 million customers would not demonstrate anything the sample does not and would slow every iteration. The split is strict and time-based: features as of the cutoff, labels from the holdout week, and the test customers are reserved before training so they are never seen. The trained model and the exact feature list are saved as artifacts (`artifacts/ranker.cbm` and `artifacts/feature_list.json`).
 
-For the model card, see [MODEL_CARD.md](MODEL_CARD.md). For what was tried and did not move the number, see the ranker tuning note referenced in [LESSONS_LEARNED.md](LESSONS_LEARNED.md).
+For the model card, see [MODEL_CARD.md](MODEL_CARD.md).

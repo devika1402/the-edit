@@ -65,4 +65,4 @@ Cold customers read the same across all three models, because they all fall back
 
 ## A caveat on reproducibility
 
-These numbers move by a few percent between full re-runs. An earlier run read a ranker MAP@12 of 0.0305 where this one reads 0.0292. The cause is tie-breaking in the top-N retrieval selections, which BigQuery does not resolve the same way each time, so the candidate set and the warm-cold split shift slightly. The conclusion is steady across runs. The fix, explicit tie-breakers in the retrieval SQL, is noted in [LESSONS_LEARNED.md](LESSONS_LEARNED.md).
+These numbers move by a few percent between full re-runs. An earlier run read a ranker MAP@12 of 0.0305 where this one reads 0.0292. The cause is tie-breaking in the top-N retrieval selections, which BigQuery does not resolve the same way each time, so the candidate set and the warm-cold split shift slightly. The conclusion is steady across runs. The fix is explicit tie-breakers in the retrieval SQL.

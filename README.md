@@ -15,7 +15,6 @@ It works in two passes, the way a good shop assistant might. The first pass is q
 | [docs/MODEL_CARD.md](docs/MODEL_CARD.md) | What is the ranker for, trained on what, weak where? |
 | [docs/DATASET.md](docs/DATASET.md) | What data is this on, and how is leakage kept out? |
 | [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) | How were the hard bugs found and fixed? |
-| [docs/LESSONS_LEARNED.md](docs/LESSONS_LEARNED.md) | What went wrong, what surprised me, what would I change? |
 | [docs/GLOSSARY.md](docs/GLOSSARY.md) | What do these terms mean? |
 | [docs/SETUP.md](docs/SETUP.md) | How do I set up GCP, BigQuery, and the data from scratch? |
 | [docs/experiment_design.md](docs/experiment_design.md) | What online test would this offline work stand in for? |
@@ -149,8 +148,6 @@ Everything stays inside the BigQuery free tier. Every query runner sets `maximum
 - Precompute the serving features into a fast store, which would turn the couple-of-seconds request into milliseconds. Most of the current latency is the BigQuery fetch.
 - Build the two-tower retrieval model, a typed stub today, since the candidate recall ceiling sets the limit on the score.
 - Give cold customers more than a single popularity list, using a light cold-profile signal from age band and channel.
-
-More of this, with what surprised me along the way, is in [docs/LESSONS_LEARNED.md](docs/LESSONS_LEARNED.md).
 
 ## Repo map
 
