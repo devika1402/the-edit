@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Recommendations demo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+:root{
+  --bg:#faf9f7; --surface:#ffffff; --ink:#1c1a18; --ink-soft:#5c5750;
+  --line:#e7e3dd; --accent:#5c0f12; --radius:14px;
+  --shadow:0 6px 18px rgba(20,17,15,.07); --maxw:1100px;
+  --font:"Inter",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font);font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.page{max-width:var(--maxw);margin:0 auto;padding:48px 24px 64px}
+h1{margin:0;font-size:30px;font-weight:700;letter-spacing:-.01em}
+.sub{margin:6px 0 0;color:var(--ink-soft);font-size:17px}
+.controls{display:flex;align-items:flex-end;gap:18px;flex-wrap:wrap;margin:28px 0 6px}
+.field{display:flex;flex-direction:column;gap:6px}
+.field label{font-size:12px;color:var(--ink-soft);text-transform:uppercase;letter-spacing:.06em}
+select{font:inherit;padding:10px 14px;border:1px solid var(--line);border-radius:10px;background:var(--surface);min-height:44px;min-width:230px}
+.toggle{display:inline-flex;background:#efece7;border-radius:999px;padding:4px}
+.toggle button{appearance:none;border:0;cursor:pointer;font:inherit;font-weight:600;font-size:14px;padding:9px 18px;min-height:44px;border-radius:999px;background:transparent;color:var(--ink-soft);transition:background .2s,color .2s}
+.toggle button[aria-pressed="true"]{background:var(--surface);color:var(--ink);box-shadow:var(--shadow)}
+.toggle button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.status{margin:14px 0 22px;color:var(--ink-soft);font-size:14px;min-height:20px}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;transition:opacity .18s ease}
+.grid.is-fading{opacity:.35}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden;display:flex;flex-direction:column}
+.ph{aspect-ratio:3/4;display:flex;align-items:center;justify-content:center;background:repeating-linear-gradient(45deg,#f1eee9 0 12px,#f7f5f1 12px 24px);color:var(--ink-soft)}
+.ph span{font-size:12px;letter-spacing:.08em;text-transform:uppercase;background:var(--surface);border:1px solid var(--line);padding:5px 10px;border-radius:999px;text-align:center}
+.name{margin:14px 14px 0;font-size:16px;font-weight:600;line-height:1.25}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin:10px 14px 0}
+.tag{font-size:12px;padding:4px 9px;border-radius:999px;background:#f3f0ec;color:var(--ink-soft)}
+.tag.muted{background:transparent;border:1px solid var(--line)}
+.meta{display:flex;align-items:center;justify-content:space-between;margin:12px 14px 14px}
+.rank{font-size:12px;color:var(--ink-soft)}
+.tier{font-size:14px;font-weight:700;color:var(--accent);letter-spacing:.04em}
+.foot{margin:40px 0 0;color:var(--ink-soft);font-size:13px;max-width:60ch}
+@media (max-width:880px){.grid{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:560px){.grid{grid-template-columns:1fr}.page{padding:32px 18px 48px}}
+@media (prefers-reduced-motion:reduce){.grid,.toggle button{transition:none}}
+</style>
+</head>
+<body>
+<main class="page">
+  <header>
+    <h1>StyleFinder</h1>
+    <p class="sub">The twelve items the system would put in front of this shopper.</p>
+  </header>
+
+  <div class="controls">
+    <div class="field">
+      <label for="shopper">Shopper</label>
+      <select id="shopper"></select>
+    </div>
+    <div class="field">
+      <label>Recommendations</label>
+      <div class="toggle" role="group" aria-label="Model">
+        <button type="button" data-model="popular" aria-pressed="false">Popular</button>
+        <button type="button" data-model="smart" aria-pressed="true">Smart pick</button>
+      </div>
+    </div>
+  </div>
+
+  <p class="status" id="status" aria-live="polite"></p>
+  <section class="grid" id="grid" aria-label="Recommended products"></section>
+
+  <footer class="foot">
+    These are real recommendations from the live model, served by the project's own API.
+    Article photos are not part of the dataset, so each card shows a placeholder tile with the product type.
+  </footer>
+</main>
+
+<script>
+const SHOPPERS = [
+  { label: "Shopper A", id: "0003e867a930d0d6842f923d6ba7c9b77aba33fe2a0fbf4672f30b3e622fec55" },
+  { label: "Shopper B", id: "0016df4fbb49288b9ed4a8a0fa3d2f7038fc4ab7f02e3c68f5def1834a158340" },
+  { label: "Shopper C", id: "0059a72dc89bd3a2bd42e523d98567a0f1acd1f7046f9bdae89e04ddc0a494cf" },
+  { label: "New shopper (no history)", id: "0032c5c60cd449c55f51f0d49f45f8ba128d9e258ae00f7378fc7f00f1ecb3b2" }
+];
+let model = "smart";
+
+const sel = document.getElementById("shopper");
+SHOPPERS.forEach((s, i) => {
+  const o = document.createElement("option");
+  o.value = s.id;
+  o.textContent = s.label;
+  if (i === 0) o.selected = true;
+  sel.appendChild(o);
+});
+
+function tierLabel(t) {
+  if (t <= 2) return "£";
+  if (t === 3) return "££";
+  return "£££";
+}
+
+function cardHTML(item) {
+  return `<article class="card">
+    <div class="ph" role="img" aria-label="${item.product_type_name} placeholder image"><span>${item.product_type_name}</span></div>
+    <h3 class="name">${item.prod_name}</h3>
+    <div class="tags"><span class="tag">${item.product_type_name}</span><span class="tag muted">${item.colour_group_name}</span></div>
+    <div class="meta"><span class="rank">No. ${item.rank}</span><span class="tier" aria-label="price tier ${tierLabel(item.price_tier)}">${tierLabel(item.price_tier)}</span></div>
+  </article>`;
+}
+
+function statText(data) {
+  const cats = new Set(data.items.map(i => i.product_type_name)).size;
+  const popular = data.served_by.indexOf("popular") === 0;
+  const label = popular ? "the same bestsellers any shopper would see" : "tuned to this shopper";
+  const cold = data.cold_start ? " This shopper has no history yet, so we show popular items either way." : "";
+  return `${label}, ${cats} categories, returned in ${(data.latency_ms / 1000).toFixed(1)} seconds.${cold}`;
+}
+
+async function load() {
+  const id = sel.value;
+  const grid = document.getElementById("grid");
+  const status = document.getElementById("status");
+  grid.classList.add("is-fading");
+  status.textContent = "Loading...";
+  try {
+    const r = await fetch(`/recommendations/${id}?model=${model}&k=12`);
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    const data = await r.json();
+    grid.innerHTML = data.items.map(cardHTML).join("");
+    status.textContent = statText(data);
+  } catch (e) {
+    grid.innerHTML = "";
+    status.textContent = "Could not load recommendations (" + e.message + "). The server may be rebuilding its tables, try again in a moment.";
+  } finally {
+    grid.classList.remove("is-fading");
+  }
+}
+
+document.querySelectorAll(".toggle button").forEach(b => {
+  b.addEventListener("click", () => {
+    model = b.dataset.model;
+    document.querySelectorAll(".toggle button").forEach(x => x.setAttribute("aria-pressed", String(x.dataset.model === model)));
+    load();
+  });
+});
+sel.addEventListener("change", load);
+load();
+</script>
+</body>
+</html>
