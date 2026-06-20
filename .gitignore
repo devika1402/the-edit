@@ -1,0 +1,30 @@
+# Virtual environment (recreated by `make install`)
+fvenv/
+.venv/
+
+# Secrets and local config
+.env
+kaggle.json
+
+# Internal docs (not published to the portfolio repo)
+docs/DECISIONS.md
+docs/README_outline.md
+
+# Data and artifacts (never committed)
+data/
+artifacts/
+catboost_info/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Stray Google Cloud SDK unpacked into the repo during setup (use the Homebrew copy)
+google-cloud-sdk/
+google-cloud-cli-*.tar.gz
+
+# OS noise
+.DS_Store
