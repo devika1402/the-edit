@@ -1,0 +1,267 @@
+{
+  "top_categories": [
+    {
+      "category": "Outerwear",
+      "total_revenue": 995357.2,
+      "total_units": 5128,
+      "avg_price": 185.84202898550717,
+      "num_products": 69
+    },
+    {
+      "category": "Bags",
+      "total_revenue": 835759.4999999999,
+      "total_units": 7105,
+      "avg_price": 119.69381443298968,
+      "num_products": 97
+    },
+    {
+      "category": "Shoes",
+      "total_revenue": 619137.3999999999,
+      "total_units": 6126,
+      "avg_price": 102.85454545454546,
+      "num_products": 88
+    },
+    {
+      "category": "Dresses",
+      "total_revenue": 535504.6000000001,
+      "total_units": 6254,
+      "avg_price": 83.95063291139245,
+      "num_products": 79
+    },
+    {
+      "category": "Pants",
+      "total_revenue": 351466.79999999993,
+      "total_units": 5732,
+      "avg_price": 61.10879120879125,
+      "num_products": 91
+    },
+    {
+      "category": "Tops",
+      "total_revenue": 236662.89999999997,
+      "total_units": 4871,
+      "avg_price": 46.6105263157895,
+      "num_products": 76
+    }
+  ],
+  "seasonal_colors": [
+    {
+      "season": "Fall",
+      "color": "Khaki",
+      "total_sales": 771
+    },
+    {
+      "season": "Fall",
+      "color": "White",
+      "total_sales": 768
+    },
+    {
+      "season": "Fall",
+      "color": "Anthracite",
+      "total_sales": 728
+    },
+    {
+      "season": "Fall",
+      "color": "Navy",
+      "total_sales": 653
+    },
+    {
+      "season": "Fall",
+      "color": "Ecru",
+      "total_sales": 602
+    },
+    {
+      "season": "Spring",
+      "color": "Navy",
+      "total_sales": 1359
+    },
+    {
+      "season": "Spring",
+      "color": "Camel",
+      "total_sales": 837
+    },
+    {
+      "season": "Spring",
+      "color": "Khaki",
+      "total_sales": 809
+    },
+    {
+      "season": "Spring",
+      "color": "Lilac",
+      "total_sales": 782
+    },
+    {
+      "season": "Spring",
+      "color": "Light Blue",
+      "total_sales": 678
+    },
+    {
+      "season": "Summer",
+      "color": "Burgundy",
+      "total_sales": 1006
+    },
+    {
+      "season": "Summer",
+      "color": "Mint",
+      "total_sales": 994
+    },
+    {
+      "season": "Summer",
+      "color": "Black",
+      "total_sales": 975
+    },
+    {
+      "season": "Summer",
+      "color": "Navy",
+      "total_sales": 895
+    },
+    {
+      "season": "Summer",
+      "color": "Lilac",
+      "total_sales": 615
+    },
+    {
+      "season": "Winter",
+      "color": "White",
+      "total_sales": 1282
+    },
+    {
+      "season": "Winter",
+      "color": "Ecru",
+      "total_sales": 1084
+    },
+    {
+      "season": "Winter",
+      "color": "Black",
+      "total_sales": 861
+    },
+    {
+      "season": "Winter",
+      "color": "Khaki",
+      "total_sales": 855
+    },
+    {
+      "season": "Winter",
+      "color": "Camel",
+      "total_sales": 803
+    }
+  ],
+  "trending_styles": [
+    {
+      "style": "Wide Leg",
+      "total_sales": 5110,
+      "avg_engagement": 3122.508474576271,
+      "avg_price": 106.67966101694914,
+      "num_items": 59
+    },
+    {
+      "style": "Oversized",
+      "total_sales": 3694,
+      "avg_engagement": 2885.191489361702,
+      "avg_price": 99.26170212765958,
+      "num_items": 47
+    },
+    {
+      "style": "Tailored",
+      "total_sales": 3626,
+      "avg_engagement": 3760.375,
+      "avg_price": 84.27499999999999,
+      "num_items": 48
+    },
+    {
+      "style": "Straight Cut",
+      "total_sales": 3618,
+      "avg_engagement": 2611.6792452830186,
+      "avg_price": 101.59811320754717,
+      "num_items": 53
+    },
+    {
+      "style": "Flowy",
+      "total_sales": 3596,
+      "avg_engagement": 3390.7021276595747,
+      "avg_price": 89.26170212765958,
+      "num_items": 47
+    }
+  ],
+  "bestsellers": [
+    {
+      "product_id": "ZARA1499",
+      "name": "Oversized Outerwear",
+      "color": "Black",
+      "price": 289.9,
+      "sales_units": 292,
+      "social_engagement": 6831
+    },
+    {
+      "product_id": "ZARA1047",
+      "name": "Wide Leg Dresses",
+      "color": "Navy",
+      "price": 39.9,
+      "sales_units": 268,
+      "social_engagement": 4596
+    },
+    {
+      "product_id": "ZARA1451",
+      "name": "Wide Leg Outerwear",
+      "color": "Stone",
+      "price": 209.9,
+      "sales_units": 264,
+      "social_engagement": 2210
+    },
+    {
+      "product_id": "ZARA1150",
+      "name": "Tailored Tops",
+      "color": "Navy",
+      "price": 49.9,
+      "sales_units": 260,
+      "social_engagement": 11714
+    },
+    {
+      "product_id": "ZARA1430",
+      "name": "Cropped Bags",
+      "color": "Black",
+      "price": 189.9,
+      "sales_units": 257,
+      "social_engagement": 13323
+    },
+    {
+      "product_id": "ZARA1454",
+      "name": "Oversized Outerwear",
+      "color": "Khaki",
+      "price": 199.9,
+      "sales_units": 256,
+      "social_engagement": 8956
+    },
+    {
+      "product_id": "ZARA1025",
+      "name": "Wide Leg Dresses",
+      "color": "Navy",
+      "price": 129.9,
+      "sales_units": 253,
+      "social_engagement": 13075
+    },
+    {
+      "product_id": "ZARA1140",
+      "name": "Flowy Tops",
+      "color": "White",
+      "price": 59.9,
+      "sales_units": 234,
+      "social_engagement": 2089
+    },
+    {
+      "product_id": "ZARA1495",
+      "name": "Relaxed Fit Outerwear",
+      "color": "Black",
+      "price": 159.9,
+      "sales_units": 223,
+      "social_engagement": 8832
+    },
+    {
+      "product_id": "ZARA1369",
+      "name": "Flowy Bags",
+      "color": "Black",
+      "price": 59.9,
+      "sales_units": 221,
+      "social_engagement": 9793
+    }
+  ]
+}

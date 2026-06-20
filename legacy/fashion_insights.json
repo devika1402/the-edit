@@ -1,0 +1,155 @@
+{
+  "top_categories": [
+    {
+      "category": "Outerwear",
+      "total_revenue": 197085254,
+      "total_units": 779680,
+      "avg_price": 257.6110108303249
+    },
+    {
+      "category": "Tops",
+      "total_revenue": 194816343,
+      "total_units": 763659,
+      "avg_price": 257.90379278445886
+    },
+    {
+      "category": "Dresses",
+      "total_revenue": 191732450,
+      "total_units": 772559,
+      "avg_price": 248.19091751621872
+    },
+    {
+      "category": "Pants",
+      "total_revenue": 189315295,
+      "total_units": 733457,
+      "avg_price": 258.0902837489252
+    },
+    {
+      "category": "Skirts",
+      "total_revenue": 187348015,
+      "total_units": 714264,
+      "avg_price": 259.7260981912145
+    }
+  ],
+  "seasonal_colors": [
+    {
+      "season": "Fall",
+      "color": "White",
+      "total_sales": 141639
+    },
+    {
+      "season": "Fall",
+      "color": "Green",
+      "total_sales": 127358
+    },
+    {
+      "season": "Fall",
+      "color": "Pink",
+      "total_sales": 126512
+    },
+    {
+      "season": "Spring",
+      "color": "White",
+      "total_sales": 145076
+    },
+    {
+      "season": "Spring",
+      "color": "Yellow",
+      "total_sales": 132939
+    },
+    {
+      "season": "Spring",
+      "color": "Red",
+      "total_sales": 126981
+    },
+    {
+      "season": "Summer",
+      "color": "Navy",
+      "total_sales": 171471
+    },
+    {
+      "season": "Summer",
+      "color": "Black",
+      "total_sales": 165017
+    },
+    {
+      "season": "Summer",
+      "color": "White",
+      "total_sales": 146437
+    },
+    {
+      "season": "Winter",
+      "color": "White",
+      "total_sales": 154900
+    },
+    {
+      "season": "Winter",
+      "color": "Navy",
+      "total_sales": 150648
+    },
+    {
+      "season": "Winter",
+      "color": "Black",
+      "total_sales": 150625
+    }
+  ],
+  "trending_styles": [
+    {
+      "style": "Streetwear",
+      "total_sales": 806151,
+      "avg_engagement": 26049.85523809524,
+      "num_items": 1050
+    },
+    {
+      "style": "Minimalist",
+      "total_sales": 793571,
+      "avg_engagement": 26054.671626984127,
+      "num_items": 1008
+    },
+    {
+      "style": "Casual",
+      "total_sales": 783909,
+      "avg_engagement": 25820.297244094487,
+      "num_items": 1016
+    },
+    {
+      "style": "Punk",
+      "total_sales": 619661,
+      "avg_engagement": 25025.036893203884,
+      "num_items": 1030
+    },
+    {
+      "style": "Preppy",
+      "total_sales": 606435,
+      "avg_engagement": 25399.81274509804,
+      "num_items": 1020
+    }
+  ],
+  "regional_preferences": [
+    {
+      "region": "Asia",
+      "style": "Minimalist",
+      "total_sales": 156532
+    },
+    {
+      "region": "Australia",
+      "style": "Streetwear",
+      "total_sales": 198458
+    },
+    {
+      "region": "Europe",
+      "style": "Minimalist",
+      "total_sales": 166759
+    },
+    {
+      "region": "North America",
+      "style": "Streetwear",
+      "total_sales": 177676
+    },
+    {
+      "region": "South America",
+      "style": "Casual",
+      "total_sales": 158501
+    }
+  ]
+}

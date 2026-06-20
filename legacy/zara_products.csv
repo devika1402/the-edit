@@ -1,0 +1,501 @@
+category,color,date_added,is_bestseller,name,price,product_id,region,revenue,sales_units,season,social_engagement,stock_status,style
+Dresses,Ecru,2026-02-02,False,Wide Leg Dresses,129.9,ZARA1000,South America,10132.2,78,Fall,1226,Limited,Wide Leg
+Dresses,White,2026-02-02,False,Flowy Dresses,129.9,ZARA1001,North America,12730.2,98,Spring,1341,In Stock,Flowy
+Dresses,Ecru,2026-02-02,False,Minimalist Dresses,139.9,ZARA1002,Asia,12870.8,92,Winter,2692,In Stock,Minimalist
+Dresses,Light Blue,2026-02-02,False,Cropped Dresses,59.9,ZARA1003,Asia,2875.2,48,Winter,355,In Stock,Cropped
+Dresses,White,2026-02-02,False,Oversized Dresses,89.9,ZARA1004,Australia,6113.2,68,Winter,2164,Low Stock,Oversized
+Dresses,Camel,2026-02-02,True,Tailored Dresses,59.9,ZARA1005,South America,3594.0,60,Spring,7074,Low Stock,Tailored
+Dresses,Ecru,2026-02-02,False,Wide Leg Dresses,99.9,ZARA1006,Australia,3296.7,33,Winter,2764,Low Stock,Wide Leg
+Dresses,Khaki,2026-02-02,False,Wide Leg Dresses,109.9,ZARA1007,Asia,6594.0,60,Winter,1860,Low Stock,Wide Leg
+Dresses,Lilac,2026-02-02,True,Oversized Dresses,129.9,ZARA1008,Asia,14159.1,109,Winter,13787,Low Stock,Oversized
+Dresses,Coral,2026-02-02,False,Cropped Dresses,69.9,ZARA1009,North America,2796.0,40,Winter,1189,In Stock,Cropped
+Dresses,Coral,2026-02-02,True,Fitted Dresses,119.9,ZARA1010,North America,20383.0,170,Fall,14433,Low Stock,Fitted
+Dresses,Coral,2026-02-02,False,Straight Cut Dresses,39.9,ZARA1011,South America,2034.9,51,Fall,1318,Limited,Straight Cut
+Dresses,Lilac,2026-02-02,False,Tailored Dresses,49.9,ZARA1012,Australia,1996.0,40,Summer,2289,Limited,Tailored
+Dresses,Coral,2026-02-02,False,Relaxed Fit Dresses,59.9,ZARA1013,South America,3713.8,62,Winter,2456,Limited,Relaxed Fit
+Dresses,Black,2026-02-02,False,Flowy Dresses,39.9,ZARA1014,Asia,2433.9,61,Fall,500,Limited,Flowy
+Dresses,Oyster White,2026-02-02,False,Structured Dresses,49.9,ZARA1015,Europe,3443.1,69,Fall,1083,Limited,Structured
+Dresses,Mint,2026-02-02,False,Structured Dresses,79.9,ZARA1016,Australia,1038.7,13,Fall,1989,Limited,Structured
+Dresses,Anthracite,2026-02-02,False,Fitted Dresses,39.9,ZARA1017,Europe,3072.3,77,Summer,2349,Low Stock,Fitted
+Dresses,Coral,2026-02-02,True,Oversized Dresses,149.9,ZARA1018,Asia,29080.6,194,Fall,9457,In Stock,Oversized
+Dresses,Camel,2026-02-02,True,Oversized Dresses,109.9,ZARA1019,Europe,12638.5,115,Winter,6217,In Stock,Oversized
+Dresses,Coral,2026-02-02,False,Structured Dresses,129.9,ZARA1020,Australia,7014.6,54,Spring,2520,Limited,Structured
+Dresses,White,2026-02-02,False,Tailored Dresses,109.9,ZARA1021,South America,9561.3,87,Fall,812,Low Stock,Tailored
+Dresses,Lilac,2026-02-02,False,Oversized Dresses,59.9,ZARA1022,Europe,6589.0,110,Summer,555,In Stock,Oversized
+Dresses,Light Blue,2026-02-02,True,Wide Leg Dresses,39.9,ZARA1023,Australia,6503.7,163,Spring,1773,Limited,Wide Leg
+Dresses,Light Blue,2026-02-02,False,Fitted Dresses,149.9,ZARA1024,Europe,8544.3,57,Summer,1925,Low Stock,Fitted
+Dresses,Navy,2026-02-02,True,Wide Leg Dresses,129.9,ZARA1025,Asia,32864.7,253,Winter,13075,Low Stock,Wide Leg
+Dresses,Burgundy,2026-02-02,False,Structured Dresses,69.9,ZARA1026,Australia,1328.1,19,Fall,629,In Stock,Structured
+Dresses,Lilac,2026-02-02,False,Cropped Dresses,69.9,ZARA1027,Europe,3914.4,56,Summer,2848,Low Stock,Cropped
+Dresses,Navy,2026-02-02,False,Flowy Dresses,119.9,ZARA1028,Australia,9352.2,78,Fall,412,Low Stock,Flowy
+Dresses,Rust,2026-02-02,False,Wide Leg Dresses,139.9,ZARA1029,Asia,2518.2,18,Summer,1708,Limited,Wide Leg
+Dresses,Mint,2026-02-02,False,Fitted Dresses,99.9,ZARA1030,North America,2297.7,23,Fall,494,Limited,Fitted
+Dresses,White,2026-02-02,False,Relaxed Fit Dresses,59.9,ZARA1031,North America,1078.2,18,Winter,1364,In Stock,Relaxed Fit
+Dresses,Rust,2026-02-02,False,Cropped Dresses,39.9,ZARA1032,Asia,1316.7,33,Summer,502,Low Stock,Cropped
+Dresses,Ecru,2026-02-02,False,Relaxed Fit Dresses,39.9,ZARA1033,Australia,2633.4,66,Fall,519,Limited,Relaxed Fit
+Dresses,Khaki,2026-02-02,True,Wide Leg Dresses,139.9,ZARA1034,North America,12451.1,89,Winter,10667,Low Stock,Wide Leg
+Dresses,White,2026-02-02,False,Fitted Dresses,39.9,ZARA1035,Europe,3471.3,87,Winter,695,Limited,Fitted
+Dresses,Stone,2026-02-02,False,Minimalist Dresses,109.9,ZARA1036,Europe,11539.5,105,Summer,2271,Low Stock,Minimalist
+Dresses,Beige,2026-02-02,False,Fitted Dresses,59.9,ZARA1037,Australia,3294.5,55,Spring,2867,Low Stock,Fitted
+Dresses,White,2026-02-02,False,Straight Cut Dresses,129.9,ZARA1038,North America,12080.7,93,Winter,1778,Limited,Straight Cut
+Dresses,Coral,2026-02-02,False,Fitted Dresses,69.9,ZARA1039,Australia,4823.1,69,Spring,1525,Limited,Fitted
+Dresses,Ecru,2026-02-02,True,Straight Cut Dresses,49.9,ZARA1040,South America,8483.0,170,Winter,11848,Limited,Straight Cut
+Dresses,Oyster White,2026-02-02,False,Tailored Dresses,39.9,ZARA1041,South America,3032.4,76,Fall,2858,Low Stock,Tailored
+Dresses,Khaki,2026-02-02,True,Structured Dresses,119.9,ZARA1042,Europe,19663.6,164,Fall,4367,In Stock,Structured
+Dresses,White,2026-02-02,False,Wide Leg Dresses,109.9,ZARA1043,Australia,5495.0,50,Fall,2955,In Stock,Wide Leg
+Dresses,Camel,2026-02-02,False,Cropped Dresses,39.9,ZARA1044,North America,4109.7,103,Summer,1073,Low Stock,Cropped
+Dresses,Coral,2026-02-02,False,Fitted Dresses,69.9,ZARA1045,North America,6221.1,89,Summer,1549,Limited,Fitted
+Dresses,Light Blue,2026-02-02,False,Minimalist Dresses,109.9,ZARA1046,Australia,2857.4,26,Winter,876,In Stock,Minimalist
+Dresses,Navy,2026-02-02,True,Wide Leg Dresses,39.9,ZARA1047,Asia,10693.2,268,Summer,4596,In Stock,Wide Leg
+Dresses,Ecru,2026-02-02,True,Tailored Dresses,69.9,ZARA1048,South America,13840.2,198,Winter,11916,Low Stock,Tailored
+Dresses,Coral,2026-02-02,False,Wide Leg Dresses,129.9,ZARA1049,South America,4806.3,37,Spring,2090,Low Stock,Wide Leg
+Dresses,Light Blue,2026-02-02,False,Cropped Dresses,39.9,ZARA1050,Asia,558.6,14,Winter,1850,In Stock,Cropped
+Dresses,Stone,2026-02-02,False,Structured Dresses,39.9,ZARA1051,South America,718.2,18,Winter,2842,In Stock,Structured
+Dresses,Light Blue,2026-02-02,False,Structured Dresses,69.9,ZARA1052,Europe,838.8,12,Spring,1493,Limited,Structured
+Dresses,Burgundy,2026-02-02,False,Flowy Dresses,79.9,ZARA1053,Asia,4154.8,52,Fall,238,In Stock,Flowy
+Dresses,Anthracite,2026-02-02,True,Wide Leg Dresses,139.9,ZARA1054,Europe,13290.5,95,Spring,8399,In Stock,Wide Leg
+Dresses,Ecru,2026-02-02,False,Straight Cut Dresses,129.9,ZARA1055,North America,3767.1,29,Winter,712,Low Stock,Straight Cut
+Dresses,Navy,2026-02-02,False,Fitted Dresses,119.9,ZARA1056,Australia,8512.9,71,Winter,1345,In Stock,Fitted
+Dresses,Lilac,2026-02-02,True,Oversized Dresses,89.9,ZARA1057,South America,15552.7,173,Spring,5589,In Stock,Oversized
+Dresses,Khaki,2026-02-02,False,Straight Cut Dresses,89.9,ZARA1058,South America,5214.2,58,Fall,316,In Stock,Straight Cut
+Dresses,Lilac,2026-02-02,False,Relaxed Fit Dresses,89.9,ZARA1059,South America,4495.0,50,Winter,1673,In Stock,Relaxed Fit
+Dresses,White,2026-02-02,True,Minimalist Dresses,49.9,ZARA1060,South America,8932.1,179,Fall,14135,In Stock,Minimalist
+Dresses,Navy,2026-02-02,False,Oversized Dresses,69.9,ZARA1061,North America,2865.9,41,Winter,419,Limited,Oversized
+Dresses,Navy,2026-02-02,True,Structured Dresses,69.9,ZARA1062,North America,14539.2,208,Summer,6339,Limited,Structured
+Dresses,Burgundy,2026-02-02,False,Tailored Dresses,49.9,ZARA1063,Europe,1297.4,26,Winter,1063,Limited,Tailored
+Dresses,Burgundy,2026-02-02,False,Tailored Dresses,49.9,ZARA1064,Australia,2445.1,49,Winter,1344,Low Stock,Tailored
+Dresses,Lilac,2026-02-02,False,Fitted Dresses,59.9,ZARA1065,Europe,4552.4,76,Fall,2504,Low Stock,Fitted
+Dresses,Oyster White,2026-02-02,True,Tailored Dresses,109.9,ZARA1066,Europe,8462.3,77,Fall,13525,In Stock,Tailored
+Dresses,Lilac,2026-02-02,False,Straight Cut Dresses,59.9,ZARA1067,Asia,1976.7,33,Summer,2392,In Stock,Straight Cut
+Dresses,Light Blue,2026-02-02,False,Minimalist Dresses,79.9,ZARA1068,Asia,5033.7,63,Spring,2396,Low Stock,Minimalist
+Dresses,Stone,2026-02-02,False,Structured Dresses,69.9,ZARA1069,Asia,4683.3,67,Winter,1869,In Stock,Structured
+Dresses,Navy,2026-02-02,False,Fitted Dresses,99.9,ZARA1070,South America,8491.5,85,Spring,1891,Low Stock,Fitted
+Dresses,Burgundy,2026-02-02,False,Fitted Dresses,139.9,ZARA1071,North America,6015.7,43,Spring,575,Low Stock,Fitted
+Dresses,Light Blue,2026-02-02,False,Minimalist Dresses,59.9,ZARA1072,South America,2156.4,36,Spring,2495,Limited,Minimalist
+Dresses,Beige,2026-02-02,False,Wide Leg Dresses,49.9,ZARA1073,South America,5838.3,117,Summer,866,Limited,Wide Leg
+Dresses,Lilac,2026-02-02,False,Flowy Dresses,109.9,ZARA1074,Europe,2857.4,26,Spring,2180,Limited,Flowy
+Dresses,Camel,2026-02-02,True,Structured Dresses,79.9,ZARA1075,Asia,7510.6,94,Spring,12729,Low Stock,Structured
+Dresses,Coral,2026-02-02,False,Fitted Dresses,49.9,ZARA1076,North America,3243.5,65,Spring,1505,In Stock,Fitted
+Dresses,Anthracite,2026-02-02,False,Fitted Dresses,59.9,ZARA1077,North America,4372.7,73,Fall,191,Limited,Fitted
+Dresses,Beige,2026-02-02,False,Straight Cut Dresses,79.9,ZARA1078,South America,5752.8,72,Fall,2310,In Stock,Straight Cut
+Tops,Burgundy,2026-02-02,False,Straight Cut Tops,69.9,ZARA1079,Europe,3425.1,49,Summer,1700,Limited,Straight Cut
+Tops,Camel,2026-02-02,False,Relaxed Fit Tops,69.9,ZARA1080,North America,4962.9,71,Winter,2682,Low Stock,Relaxed Fit
+Tops,Mint,2026-02-02,True,Tailored Tops,59.9,ZARA1081,North America,4133.1,69,Fall,6432,Limited,Tailored
+Tops,Coral,2026-02-02,False,Flowy Tops,59.9,ZARA1082,Europe,2216.3,37,Winter,1157,Low Stock,Flowy
+Tops,Rust,2026-02-02,False,Straight Cut Tops,19.9,ZARA1083,Europe,815.9,41,Winter,2496,Low Stock,Straight Cut
+Tops,Ecru,2026-02-02,False,Wide Leg Tops,19.9,ZARA1084,Australia,1213.9,61,Winter,1740,Limited,Wide Leg
+Tops,Camel,2026-02-02,False,Flowy Tops,69.9,ZARA1085,Australia,2796.0,40,Spring,1527,In Stock,Flowy
+Tops,Navy,2026-02-02,False,Cropped Tops,49.9,ZARA1086,North America,1347.3,27,Fall,446,Low Stock,Cropped
+Tops,Camel,2026-02-02,False,Wide Leg Tops,59.9,ZARA1087,Europe,3234.6,54,Fall,2683,Low Stock,Wide Leg
+Tops,Mint,2026-02-02,False,Structured Tops,79.9,ZARA1088,Asia,2716.6,34,Winter,2382,Limited,Structured
+Tops,Black,2026-02-02,False,Minimalist Tops,29.9,ZARA1089,Australia,1495.0,50,Spring,1687,In Stock,Minimalist
+Tops,Beige,2026-02-02,False,Relaxed Fit Tops,69.9,ZARA1090,South America,3984.3,57,Fall,658,Low Stock,Relaxed Fit
+Tops,Lilac,2026-02-02,False,Cropped Tops,49.9,ZARA1091,Europe,2744.5,55,Spring,1913,Limited,Cropped
+Tops,Anthracite,2026-02-02,False,Fitted Tops,19.9,ZARA1092,North America,1253.7,63,Fall,1042,In Stock,Fitted
+Tops,Light Blue,2026-02-02,False,Cropped Tops,29.9,ZARA1093,North America,568.1,19,Summer,1498,Limited,Cropped
+Tops,Rust,2026-02-02,False,Structured Tops,29.9,ZARA1094,Asia,657.8,22,Fall,2658,Low Stock,Structured
+Tops,Oyster White,2026-02-02,False,Fitted Tops,69.9,ZARA1095,South America,1467.9,21,Fall,2165,Low Stock,Fitted
+Tops,Oyster White,2026-02-02,False,Straight Cut Tops,19.9,ZARA1096,Australia,1313.4,66,Spring,1180,Limited,Straight Cut
+Tops,Khaki,2026-02-02,False,Flowy Tops,39.9,ZARA1097,Asia,2074.8,52,Fall,932,Limited,Flowy
+Tops,Mint,2026-02-02,False,Tailored Tops,39.9,ZARA1098,Australia,2314.2,58,Winter,870,In Stock,Tailored
+Tops,Navy,2026-02-02,False,Flowy Tops,49.9,ZARA1099,North America,2245.5,45,Winter,671,Limited,Flowy
+Tops,Beige,2026-02-02,False,Structured Tops,79.9,ZARA1100,Asia,4314.6,54,Spring,2566,Low Stock,Structured
+Tops,Rust,2026-02-02,True,Tailored Tops,39.9,ZARA1101,North America,3152.1,79,Summer,13851,Limited,Tailored
+Tops,Burgundy,2026-02-02,False,Fitted Tops,59.9,ZARA1102,Europe,1138.1,19,Spring,2519,In Stock,Fitted
+Tops,Oyster White,2026-02-02,True,Relaxed Fit Tops,39.9,ZARA1103,Europe,4109.7,103,Fall,12918,Low Stock,Relaxed Fit
+Tops,Black,2026-02-02,False,Wide Leg Tops,29.9,ZARA1104,Australia,2750.8,92,Summer,2032,Limited,Wide Leg
+Tops,Light Blue,2026-02-02,False,Minimalist Tops,49.9,ZARA1105,South America,2644.7,53,Fall,723,Low Stock,Minimalist
+Tops,White,2026-02-02,False,Flowy Tops,39.9,ZARA1106,South America,2314.2,58,Summer,220,Limited,Flowy
+Tops,Anthracite,2026-02-02,False,Relaxed Fit Tops,49.9,ZARA1107,South America,1497.0,30,Spring,740,Limited,Relaxed Fit
+Tops,Oyster White,2026-02-02,False,Oversized Tops,19.9,ZARA1108,North America,1233.8,62,Spring,1957,Limited,Oversized
+Tops,Mint,2026-02-02,False,Relaxed Fit Tops,69.9,ZARA1109,Europe,4194.0,60,Summer,2313,Low Stock,Relaxed Fit
+Tops,Oyster White,2026-02-02,False,Relaxed Fit Tops,49.9,ZARA1110,Asia,1846.3,37,Spring,1977,Limited,Relaxed Fit
+Tops,Ecru,2026-02-02,False,Cropped Tops,69.9,ZARA1111,North America,7269.6,104,Winter,794,Limited,Cropped
+Tops,Coral,2026-02-02,False,Flowy Tops,29.9,ZARA1112,Asia,926.9,31,Fall,2233,Limited,Flowy
+Tops,Beige,2026-02-02,False,Oversized Tops,69.9,ZARA1113,Asia,6710.4,96,Winter,1624,In Stock,Oversized
+Tops,Stone,2026-02-02,False,Straight Cut Tops,39.9,ZARA1114,South America,2274.3,57,Fall,2919,Low Stock,Straight Cut
+Tops,Black,2026-02-02,False,Minimalist Tops,39.9,ZARA1115,Asia,758.1,19,Fall,1840,In Stock,Minimalist
+Tops,Mint,2026-02-02,False,Relaxed Fit Tops,19.9,ZARA1116,Europe,298.5,15,Summer,2715,Low Stock,Relaxed Fit
+Tops,Light Blue,2026-02-02,False,Cropped Tops,29.9,ZARA1117,Asia,2571.4,86,Summer,1523,Low Stock,Cropped
+Tops,Anthracite,2026-02-02,True,Structured Tops,39.9,ZARA1118,Australia,4947.6,124,Fall,13410,In Stock,Structured
+Tops,Khaki,2026-02-02,True,Flowy Tops,69.9,ZARA1119,Europe,6570.6,94,Spring,3409,In Stock,Flowy
+Tops,Burgundy,2026-02-02,False,Fitted Tops,59.9,ZARA1120,South America,3594.0,60,Summer,2735,In Stock,Fitted
+Tops,Stone,2026-02-02,False,Wide Leg Tops,69.9,ZARA1121,North America,4054.2,58,Spring,1983,In Stock,Wide Leg
+Tops,Black,2026-02-02,False,Fitted Tops,29.9,ZARA1122,Asia,657.8,22,Winter,1828,Limited,Fitted
+Tops,White,2026-02-02,False,Cropped Tops,29.9,ZARA1123,Asia,2720.9,91,Fall,2787,In Stock,Cropped
+Tops,Mint,2026-02-02,True,Structured Tops,59.9,ZARA1124,North America,9284.5,155,Summer,5746,Low Stock,Structured
+Tops,Burgundy,2026-02-02,False,Wide Leg Tops,39.9,ZARA1125,North America,1635.9,41,Fall,299,In Stock,Wide Leg
+Tops,Khaki,2026-02-02,False,Wide Leg Tops,59.9,ZARA1126,Australia,3414.3,57,Summer,1757,Low Stock,Wide Leg
+Tops,Khaki,2026-02-02,False,Wide Leg Tops,59.9,ZARA1127,Australia,2695.5,45,Spring,641,Limited,Wide Leg
+Tops,Coral,2026-02-02,False,Tailored Tops,19.9,ZARA1128,Australia,1671.6,84,Summer,2928,Low Stock,Tailored
+Tops,Anthracite,2026-02-02,False,Straight Cut Tops,39.9,ZARA1129,Asia,4468.8,112,Summer,2268,In Stock,Straight Cut
+Tops,Camel,2026-02-02,False,Straight Cut Tops,69.9,ZARA1130,South America,3984.3,57,Winter,200,Limited,Straight Cut
+Tops,Mint,2026-02-02,False,Flowy Tops,29.9,ZARA1131,Europe,807.3,27,Winter,710,In Stock,Flowy
+Tops,Anthracite,2026-02-02,False,Tailored Tops,29.9,ZARA1132,South America,1973.4,66,Winter,583,In Stock,Tailored
+Tops,Navy,2026-02-02,False,Fitted Tops,19.9,ZARA1133,North America,1850.7,93,Spring,1635,Low Stock,Fitted
+Tops,Rust,2026-02-02,False,Straight Cut Tops,59.9,ZARA1134,North America,2515.8,42,Winter,2201,Low Stock,Straight Cut
+Tops,White,2026-02-02,False,Flowy Tops,39.9,ZARA1135,Asia,3511.2,88,Summer,253,In Stock,Flowy
+Tops,Khaki,2026-02-02,False,Relaxed Fit Tops,19.9,ZARA1136,North America,417.9,21,Fall,2145,In Stock,Relaxed Fit
+Tops,Khaki,2026-02-02,True,Wide Leg Tops,69.9,ZARA1137,Australia,8388.0,120,Spring,3071,In Stock,Wide Leg
+Tops,Ecru,2026-02-02,True,Straight Cut Tops,79.9,ZARA1138,South America,13902.6,174,Fall,13497,In Stock,Straight Cut
+Tops,Anthracite,2026-02-02,False,Tailored Tops,59.9,ZARA1139,Europe,2036.6,34,Winter,2708,Low Stock,Tailored
+Tops,White,2026-02-02,True,Flowy Tops,59.9,ZARA1140,Asia,14016.6,234,Spring,2089,Limited,Flowy
+Tops,Lilac,2026-02-02,False,Straight Cut Tops,29.9,ZARA1141,South America,299.0,10,Winter,753,Low Stock,Straight Cut
+Tops,Light Blue,2026-02-02,False,Straight Cut Tops,29.9,ZARA1142,Europe,2152.8,72,Spring,468,Low Stock,Straight Cut
+Tops,Navy,2026-02-02,True,Fitted Tops,39.9,ZARA1143,North America,6144.6,154,Fall,6226,Limited,Fitted
+Tops,Coral,2026-02-02,False,Straight Cut Tops,69.9,ZARA1144,Asia,1258.2,18,Summer,1413,Limited,Straight Cut
+Tops,Mint,2026-02-02,False,Tailored Tops,19.9,ZARA1145,Australia,1114.4,56,Summer,2367,Low Stock,Tailored
+Tops,Stone,2026-02-02,False,Relaxed Fit Tops,49.9,ZARA1146,North America,2495.0,50,Spring,2954,In Stock,Relaxed Fit
+Tops,Navy,2026-02-02,False,Wide Leg Tops,29.9,ZARA1147,Asia,1106.3,37,Summer,2314,Low Stock,Wide Leg
+Tops,Navy,2026-02-02,False,Oversized Tops,29.9,ZARA1148,Europe,2152.8,72,Fall,445,In Stock,Oversized
+Tops,Camel,2026-02-02,False,Oversized Tops,29.9,ZARA1149,Asia,448.5,15,Winter,2461,In Stock,Oversized
+Tops,Navy,2026-02-02,True,Tailored Tops,49.9,ZARA1150,North America,12974.0,260,Spring,11714,In Stock,Tailored
+Tops,Lilac,2026-02-02,False,Cropped Tops,39.9,ZARA1151,North America,1037.4,26,Fall,636,Low Stock,Cropped
+Tops,Camel,2026-02-02,False,Relaxed Fit Tops,49.9,ZARA1152,North America,1347.3,27,Spring,384,Low Stock,Relaxed Fit
+Tops,Navy,2026-02-02,False,Minimalist Tops,39.9,ZARA1153,Asia,2274.3,57,Fall,564,In Stock,Minimalist
+Tops,Rust,2026-02-02,False,Fitted Tops,79.9,ZARA1154,North America,5752.8,72,Spring,1320,In Stock,Fitted
+Pants,Mint,2026-02-02,True,Flowy Pants,39.9,ZARA1155,Asia,2194.5,55,Summer,13087,Limited,Flowy
+Pants,Light Blue,2026-02-02,False,Relaxed Fit Pants,59.9,ZARA1156,North America,2036.6,34,Fall,797,Limited,Relaxed Fit
+Pants,Mint,2026-02-02,True,Relaxed Fit Pants,89.9,ZARA1157,Australia,9079.9,101,Fall,511,In Stock,Relaxed Fit
+Pants,Burgundy,2026-02-02,True,Flowy Pants,39.9,ZARA1158,North America,5506.2,138,Summer,7068,In Stock,Flowy
+Pants,Light Blue,2026-02-02,False,Flowy Pants,39.9,ZARA1159,South America,598.5,15,Summer,1167,Limited,Flowy
+Pants,Khaki,2026-02-02,False,Cropped Pants,99.9,ZARA1160,Asia,7992.0,80,Fall,497,Low Stock,Cropped
+Pants,Camel,2026-02-02,False,Oversized Pants,99.9,ZARA1161,North America,6593.4,66,Fall,2369,In Stock,Oversized
+Pants,Light Blue,2026-02-02,False,Minimalist Pants,29.9,ZARA1162,Asia,747.5,25,Fall,815,Limited,Minimalist
+Pants,Anthracite,2026-02-02,False,Structured Pants,39.9,ZARA1163,Australia,1715.7,43,Winter,302,In Stock,Structured
+Pants,Navy,2026-02-02,False,Tailored Pants,89.9,ZARA1164,Asia,6382.9,71,Summer,2450,In Stock,Tailored
+Pants,Burgundy,2026-02-02,True,Tailored Pants,59.9,ZARA1165,Asia,10542.4,176,Fall,10565,In Stock,Tailored
+Pants,Oyster White,2026-02-02,False,Tailored Pants,49.9,ZARA1166,North America,3542.9,71,Winter,1044,Limited,Tailored
+Pants,Navy,2026-02-02,False,Fitted Pants,69.9,ZARA1167,Asia,1677.6,24,Fall,315,Limited,Fitted
+Pants,Burgundy,2026-02-02,True,Relaxed Fit Pants,49.9,ZARA1168,Australia,3592.8,72,Spring,7426,Low Stock,Relaxed Fit
+Pants,Mint,2026-02-02,False,Fitted Pants,69.9,ZARA1169,North America,1957.2,28,Winter,2742,In Stock,Fitted
+Pants,Khaki,2026-02-02,False,Minimalist Pants,69.9,ZARA1170,Europe,4823.1,69,Spring,2511,Limited,Minimalist
+Pants,Anthracite,2026-02-02,True,Minimalist Pants,49.9,ZARA1171,Europe,3542.9,71,Winter,2518,In Stock,Minimalist
+Pants,Khaki,2026-02-02,False,Cropped Pants,59.9,ZARA1172,South America,3414.3,57,Fall,2223,Low Stock,Cropped
+Pants,Mint,2026-02-02,False,Fitted Pants,79.9,ZARA1173,North America,3515.6,44,Summer,549,In Stock,Fitted
+Pants,White,2026-02-02,False,Cropped Pants,89.9,ZARA1174,North America,3685.9,41,Spring,2608,In Stock,Cropped
+Pants,Camel,2026-02-02,False,Minimalist Pants,49.9,ZARA1175,South America,1397.2,28,Spring,450,Low Stock,Minimalist
+Pants,Khaki,2026-02-02,False,Wide Leg Pants,59.9,ZARA1176,Europe,1018.3,17,Spring,190,Limited,Wide Leg
+Pants,Anthracite,2026-02-02,False,Cropped Pants,79.9,ZARA1177,North America,1837.7,23,Spring,2868,Limited,Cropped
+Pants,Khaki,2026-02-02,False,Fitted Pants,49.9,ZARA1178,South America,2944.1,59,Fall,488,Low Stock,Fitted
+Pants,Lilac,2026-02-02,False,Cropped Pants,69.9,ZARA1179,South America,1398.0,20,Spring,2265,Limited,Cropped
+Pants,Beige,2026-02-02,False,Flowy Pants,39.9,ZARA1180,South America,2354.1,59,Winter,1230,In Stock,Flowy
+Pants,Navy,2026-02-02,False,Oversized Pants,69.9,ZARA1181,Europe,4753.2,68,Spring,483,Low Stock,Oversized
+Pants,Coral,2026-02-02,True,Flowy Pants,79.9,ZARA1182,Europe,12064.9,151,Summer,9238,In Stock,Flowy
+Pants,Burgundy,2026-02-02,False,Minimalist Pants,29.9,ZARA1183,Asia,956.8,32,Fall,1442,In Stock,Minimalist
+Pants,White,2026-02-02,False,Oversized Pants,59.9,ZARA1184,North America,4792.0,80,Summer,1380,Limited,Oversized
+Pants,Black,2026-02-02,False,Flowy Pants,79.9,ZARA1185,South America,4554.3,57,Fall,2765,Limited,Flowy
+Pants,Navy,2026-02-02,False,Tailored Pants,99.9,ZARA1186,Australia,6593.4,66,Spring,1974,Low Stock,Tailored
+Pants,Stone,2026-02-02,False,Oversized Pants,59.9,ZARA1187,Asia,958.4,16,Fall,1965,In Stock,Oversized
+Pants,White,2026-02-02,False,Wide Leg Pants,69.9,ZARA1188,North America,1118.4,16,Fall,904,Limited,Wide Leg
+Pants,Navy,2026-02-02,False,Minimalist Pants,59.9,ZARA1189,North America,1617.3,27,Spring,1618,In Stock,Minimalist
+Pants,Black,2026-02-02,False,Fitted Pants,49.9,ZARA1190,North America,2295.4,46,Fall,1109,Low Stock,Fitted
+Pants,Light Blue,2026-02-02,False,Fitted Pants,39.9,ZARA1191,South America,2114.7,53,Fall,106,Limited,Fitted
+Pants,Beige,2026-02-02,False,Structured Pants,99.9,ZARA1192,North America,8291.7,83,Summer,2122,In Stock,Structured
+Pants,Anthracite,2026-02-02,False,Straight Cut Pants,39.9,ZARA1193,Europe,1675.8,42,Summer,986,In Stock,Straight Cut
+Pants,Navy,2026-02-02,False,Wide Leg Pants,99.9,ZARA1194,South America,9090.9,91,Summer,1815,Low Stock,Wide Leg
+Pants,Stone,2026-02-02,True,Oversized Pants,99.9,ZARA1195,North America,6293.7,63,Fall,9275,Limited,Oversized
+Pants,Light Blue,2026-02-02,False,Structured Pants,99.9,ZARA1196,Europe,3696.3,37,Winter,1639,In Stock,Structured
+Pants,Mint,2026-02-02,False,Oversized Pants,99.9,ZARA1197,North America,3096.9,31,Spring,1645,In Stock,Oversized
+Pants,Ecru,2026-02-02,False,Fitted Pants,59.9,ZARA1198,North America,5810.3,97,Winter,1567,In Stock,Fitted
+Pants,White,2026-02-02,False,Oversized Pants,49.9,ZARA1199,South America,3243.5,65,Fall,2374,In Stock,Oversized
+Pants,Ecru,2026-02-02,False,Minimalist Pants,69.9,ZARA1200,Asia,4333.8,62,Winter,2678,In Stock,Minimalist
+Pants,Camel,2026-02-02,True,Straight Cut Pants,59.9,ZARA1201,Asia,5750.4,96,Winter,4258,Low Stock,Straight Cut
+Pants,Burgundy,2026-02-02,False,Wide Leg Pants,29.9,ZARA1202,South America,1584.7,53,Winter,1936,In Stock,Wide Leg
+Pants,Rust,2026-02-02,True,Relaxed Fit Pants,39.9,ZARA1203,Asia,5665.8,142,Spring,8913,In Stock,Relaxed Fit
+Pants,Mint,2026-02-02,False,Fitted Pants,39.9,ZARA1204,North America,2034.9,51,Spring,2243,Low Stock,Fitted
+Pants,Anthracite,2026-02-02,True,Straight Cut Pants,79.9,ZARA1205,Europe,15820.2,198,Fall,6868,Low Stock,Straight Cut
+Pants,Oyster White,2026-02-02,False,Tailored Pants,29.9,ZARA1206,Australia,1016.6,34,Winter,1872,Limited,Tailored
+Pants,Black,2026-02-02,True,Flowy Pants,49.9,ZARA1207,North America,5239.5,105,Summer,6368,Low Stock,Flowy
+Pants,Lilac,2026-02-02,True,Straight Cut Pants,49.9,ZARA1208,Asia,7085.8,142,Fall,6472,Limited,Straight Cut
+Pants,White,2026-02-02,False,Structured Pants,29.9,ZARA1209,South America,1106.3,37,Summer,1894,Limited,Structured
+Pants,Anthracite,2026-02-02,False,Oversized Pants,29.9,ZARA1210,South America,1764.1,59,Fall,717,Low Stock,Oversized
+Pants,Camel,2026-02-02,True,Structured Pants,39.9,ZARA1211,Asia,2433.9,61,Fall,9772,In Stock,Structured
+Pants,Mint,2026-02-02,False,Relaxed Fit Pants,59.9,ZARA1212,Australia,1677.2,28,Winter,2304,Limited,Relaxed Fit
+Pants,Oyster White,2026-02-02,False,Minimalist Pants,89.9,ZARA1213,Australia,2786.9,31,Fall,2800,Low Stock,Minimalist
+Pants,Rust,2026-02-02,False,Wide Leg Pants,59.9,ZARA1214,Asia,3474.2,58,Summer,2173,In Stock,Wide Leg
+Pants,White,2026-02-02,True,Straight Cut Pants,49.9,ZARA1215,Australia,6137.7,123,Fall,1385,Low Stock,Straight Cut
+Pants,Burgundy,2026-02-02,True,Cropped Pants,39.9,ZARA1216,South America,6264.3,157,Summer,8934,In Stock,Cropped
+Pants,Anthracite,2026-02-02,False,Wide Leg Pants,39.9,ZARA1217,Asia,3152.1,79,Summer,1862,Low Stock,Wide Leg
+Pants,Stone,2026-02-02,False,Oversized Pants,39.9,ZARA1218,South America,678.3,17,Spring,493,Limited,Oversized
+Pants,Lilac,2026-02-02,True,Minimalist Pants,79.9,ZARA1219,Asia,4234.7,53,Fall,1335,Low Stock,Minimalist
+Pants,Ecru,2026-02-02,False,Flowy Pants,99.9,ZARA1220,North America,1898.1,19,Summer,402,Low Stock,Flowy
+Pants,Burgundy,2026-02-02,True,Relaxed Fit Pants,59.9,ZARA1221,Europe,10901.8,182,Winter,10226,Limited,Relaxed Fit
+Pants,Camel,2026-02-02,False,Tailored Pants,59.9,ZARA1222,Europe,4432.6,74,Winter,1040,Low Stock,Tailored
+Pants,Rust,2026-02-02,False,Cropped Pants,49.9,ZARA1223,Australia,2844.3,57,Summer,2693,Limited,Cropped
+Pants,Rust,2026-02-02,False,Structured Pants,29.9,ZARA1224,South America,1255.8,42,Spring,1545,Limited,Structured
+Pants,Navy,2026-02-02,False,Flowy Pants,79.9,ZARA1225,South America,1837.7,23,Summer,1455,In Stock,Flowy
+Pants,Light Blue,2026-02-02,False,Tailored Pants,69.9,ZARA1226,Europe,5452.2,78,Summer,687,In Stock,Tailored
+Pants,White,2026-02-02,False,Structured Pants,59.9,ZARA1227,South America,778.7,13,Fall,1597,In Stock,Structured
+Pants,Stone,2026-02-02,False,Fitted Pants,39.9,ZARA1228,Australia,1516.2,38,Summer,310,In Stock,Fitted
+Pants,Lilac,2026-02-02,True,Wide Leg Pants,79.9,ZARA1229,North America,15260.9,191,Summer,8707,In Stock,Wide Leg
+Pants,Lilac,2026-02-02,False,Relaxed Fit Pants,59.9,ZARA1230,Europe,4612.3,77,Spring,847,In Stock,Relaxed Fit
+Pants,Light Blue,2026-02-02,False,Relaxed Fit Pants,59.9,ZARA1231,Europe,1976.7,33,Summer,1123,Low Stock,Relaxed Fit
+Pants,Anthracite,2026-02-02,False,Tailored Pants,79.9,ZARA1232,Australia,1677.9,21,Spring,855,In Stock,Tailored
+Pants,Khaki,2026-02-02,False,Wide Leg Pants,59.9,ZARA1233,Asia,4492.5,75,Winter,2239,Limited,Wide Leg
+Pants,White,2026-02-02,False,Cropped Pants,89.9,ZARA1234,Europe,3775.8,42,Winter,2615,Limited,Cropped
+Pants,Lilac,2026-02-02,False,Oversized Pants,39.9,ZARA1235,Europe,2872.8,72,Winter,1277,Low Stock,Oversized
+Pants,Light Blue,2026-02-02,False,Oversized Pants,29.9,ZARA1236,Europe,897.0,30,Winter,514,Low Stock,Oversized
+Pants,Oyster White,2026-02-02,False,Flowy Pants,59.9,ZARA1237,South America,2396.0,40,Summer,1425,Limited,Flowy
+Pants,Rust,2026-02-02,False,Structured Pants,59.9,ZARA1238,North America,2635.6,44,Summer,2433,Low Stock,Structured
+Pants,Black,2026-02-02,False,Tailored Pants,69.9,ZARA1239,Australia,6081.3,87,Spring,2582,Low Stock,Tailored
+Pants,Mint,2026-02-02,False,Structured Pants,79.9,ZARA1240,North America,1518.1,19,Fall,2509,In Stock,Structured
+Pants,Beige,2026-02-02,False,Oversized Pants,29.9,ZARA1241,Europe,2900.3,97,Winter,1394,In Stock,Oversized
+Pants,Lilac,2026-02-02,False,Cropped Pants,39.9,ZARA1242,Australia,957.6,24,Spring,321,In Stock,Cropped
+Pants,Anthracite,2026-02-02,True,Minimalist Pants,49.9,ZARA1243,South America,2794.4,56,Summer,1294,In Stock,Minimalist
+Pants,Navy,2026-02-02,False,Minimalist Pants,89.9,ZARA1244,Asia,2607.1,29,Summer,2122,Limited,Minimalist
+Pants,Beige,2026-02-02,False,Minimalist Pants,49.9,ZARA1245,Australia,3742.5,75,Summer,621,Limited,Minimalist
+Shoes,Oyster White,2026-02-02,False,Oversized Shoes,79.9,ZARA1246,North America,3755.3,47,Spring,169,Limited,Oversized
+Shoes,Black,2026-02-02,False,Relaxed Fit Shoes,69.9,ZARA1247,Asia,1398.0,20,Fall,247,Low Stock,Relaxed Fit
+Shoes,Lilac,2026-02-02,True,Tailored Shoes,89.9,ZARA1248,Australia,5663.7,63,Spring,10525,Low Stock,Tailored
+Shoes,Rust,2026-02-02,False,Cropped Shoes,89.9,ZARA1249,Asia,4764.7,53,Winter,2296,Limited,Cropped
+Shoes,Mint,2026-02-02,False,Structured Shoes,99.9,ZARA1250,South America,4095.9,41,Winter,2740,In Stock,Structured
+Shoes,Anthracite,2026-02-02,False,Cropped Shoes,129.9,ZARA1251,North America,6884.7,53,Summer,2841,Low Stock,Cropped
+Shoes,Ecru,2026-02-02,False,Flowy Shoes,129.9,ZARA1252,Europe,3377.4,26,Fall,2567,Limited,Flowy
+Shoes,Anthracite,2026-02-02,False,Straight Cut Shoes,79.9,ZARA1253,North America,5912.6,74,Fall,1506,Limited,Straight Cut
+Shoes,Ecru,2026-02-02,False,Flowy Shoes,139.9,ZARA1254,Asia,8673.8,62,Summer,2802,Limited,Flowy
+Shoes,Lilac,2026-02-02,True,Tailored Shoes,59.9,ZARA1255,Australia,11021.6,184,Spring,2729,Limited,Tailored
+Shoes,Light Blue,2026-02-02,False,Straight Cut Shoes,89.9,ZARA1256,Europe,6922.3,77,Winter,471,Limited,Straight Cut
+Shoes,Beige,2026-02-02,False,Straight Cut Shoes,99.9,ZARA1257,South America,4995.0,50,Spring,288,Limited,Straight Cut
+Shoes,White,2026-02-02,True,Structured Shoes,109.9,ZARA1258,Australia,10220.7,93,Winter,5520,Low Stock,Structured
+Shoes,Camel,2026-02-02,False,Minimalist Shoes,99.9,ZARA1259,North America,6693.3,67,Winter,1096,In Stock,Minimalist
+Shoes,White,2026-02-02,True,Flowy Shoes,109.9,ZARA1260,Asia,22199.8,202,Winter,8077,In Stock,Flowy
+Shoes,Rust,2026-02-02,False,Straight Cut Shoes,119.9,ZARA1261,Europe,4796.0,40,Winter,1891,Limited,Straight Cut
+Shoes,Rust,2026-02-02,False,Minimalist Shoes,139.9,ZARA1262,North America,9093.5,65,Winter,2006,Low Stock,Minimalist
+Shoes,Stone,2026-02-02,True,Wide Leg Shoes,59.9,ZARA1263,Europe,6169.7,103,Winter,14639,Limited,Wide Leg
+Shoes,Burgundy,2026-02-02,False,Structured Shoes,149.9,ZARA1264,Europe,5246.5,35,Summer,2444,In Stock,Structured
+Shoes,Stone,2026-02-02,True,Flowy Shoes,129.9,ZARA1265,South America,14678.7,113,Winter,8187,Limited,Flowy
+Shoes,Camel,2026-02-02,True,Cropped Shoes,59.9,ZARA1266,Asia,7307.8,122,Summer,3837,Low Stock,Cropped
+Shoes,Rust,2026-02-02,False,Straight Cut Shoes,59.9,ZARA1267,North America,3833.6,64,Fall,1746,Low Stock,Straight Cut
+Shoes,Anthracite,2026-02-02,False,Structured Shoes,109.9,ZARA1268,Asia,1099.0,10,Fall,2309,Low Stock,Structured
+Shoes,Oyster White,2026-02-02,False,Fitted Shoes,129.9,ZARA1269,South America,4026.9,31,Spring,1834,In Stock,Fitted
+Shoes,Oyster White,2026-02-02,True,Relaxed Fit Shoes,59.9,ZARA1270,Asia,3893.5,65,Winter,14807,Limited,Relaxed Fit
+Shoes,White,2026-02-02,False,Wide Leg Shoes,59.9,ZARA1271,North America,6229.6,104,Summer,2992,Limited,Wide Leg
+Shoes,Lilac,2026-02-02,False,Relaxed Fit Shoes,99.9,ZARA1272,Australia,1398.6,14,Spring,134,Limited,Relaxed Fit
+Shoes,Rust,2026-02-02,False,Structured Shoes,119.9,ZARA1273,Australia,5635.3,47,Fall,1315,Limited,Structured
+Shoes,Navy,2026-02-02,True,Cropped Shoes,49.9,ZARA1274,North America,8083.8,162,Spring,6422,Low Stock,Cropped
+Shoes,Khaki,2026-02-02,False,Tailored Shoes,69.9,ZARA1275,North America,5592.0,80,Winter,1502,In Stock,Tailored
+Shoes,Black,2026-02-02,False,Structured Shoes,59.9,ZARA1276,Asia,2935.1,49,Winter,2451,In Stock,Structured
+Shoes,Anthracite,2026-02-02,False,Tailored Shoes,149.9,ZARA1277,South America,7345.1,49,Spring,2659,Low Stock,Tailored
+Shoes,Lilac,2026-02-02,False,Minimalist Shoes,129.9,ZARA1278,Asia,3637.2,28,Summer,1113,In Stock,Minimalist
+Shoes,Stone,2026-02-02,False,Straight Cut Shoes,89.9,ZARA1279,North America,4944.5,55,Spring,2068,In Stock,Straight Cut
+Shoes,Anthracite,2026-02-02,False,Oversized Shoes,119.9,ZARA1280,Australia,1318.9,11,Fall,1159,Limited,Oversized
+Shoes,Lilac,2026-02-02,False,Structured Shoes,79.9,ZARA1281,North America,2556.8,32,Winter,1177,Low Stock,Structured
+Shoes,Lilac,2026-02-02,False,Flowy Shoes,129.9,ZARA1282,Australia,10002.3,77,Summer,255,Low Stock,Flowy
+Shoes,Stone,2026-02-02,False,Tailored Shoes,49.9,ZARA1283,Australia,3193.6,64,Winter,2378,In Stock,Tailored
+Shoes,Burgundy,2026-02-02,False,Relaxed Fit Shoes,109.9,ZARA1284,Asia,5604.9,51,Summer,2831,Low Stock,Relaxed Fit
+Shoes,Mint,2026-02-02,False,Structured Shoes,129.9,ZARA1285,Australia,5066.1,39,Spring,1992,In Stock,Structured
+Shoes,Oyster White,2026-02-02,False,Minimalist Shoes,89.9,ZARA1286,Europe,1977.8,22,Summer,123,Low Stock,Minimalist
+Shoes,Camel,2026-02-02,True,Minimalist Shoes,109.9,ZARA1287,North America,15056.3,137,Spring,5725,Low Stock,Minimalist
+Shoes,Lilac,2026-02-02,False,Relaxed Fit Shoes,79.9,ZARA1288,Asia,1677.9,21,Spring,961,In Stock,Relaxed Fit
+Shoes,Camel,2026-02-02,False,Oversized Shoes,109.9,ZARA1289,South America,3956.4,36,Winter,1221,Low Stock,Oversized
+Shoes,Black,2026-02-02,True,Wide Leg Shoes,149.9,ZARA1290,Europe,19936.7,133,Spring,8494,In Stock,Wide Leg
+Shoes,Light Blue,2026-02-02,False,Fitted Shoes,79.9,ZARA1291,Asia,4794.0,60,Spring,477,Low Stock,Fitted
+Shoes,Coral,2026-02-02,False,Structured Shoes,89.9,ZARA1292,Asia,6293.0,70,Winter,2893,In Stock,Structured
+Shoes,Camel,2026-02-02,False,Tailored Shoes,139.9,ZARA1293,South America,8673.8,62,Fall,133,In Stock,Tailored
+Shoes,Camel,2026-02-02,True,Relaxed Fit Shoes,89.9,ZARA1294,South America,11597.1,129,Spring,3005,In Stock,Relaxed Fit
+Shoes,Navy,2026-02-02,False,Flowy Shoes,129.9,ZARA1295,Asia,7144.5,55,Fall,970,Low Stock,Flowy
+Shoes,Burgundy,2026-02-02,False,Wide Leg Shoes,59.9,ZARA1296,Australia,2336.1,39,Summer,975,Low Stock,Wide Leg
+Shoes,Ecru,2026-02-02,False,Structured Shoes,59.9,ZARA1297,Europe,1557.4,26,Fall,2139,In Stock,Structured
+Shoes,Ecru,2026-02-02,False,Relaxed Fit Shoes,129.9,ZARA1298,Australia,8573.4,66,Winter,2913,Limited,Relaxed Fit
+Shoes,Camel,2026-02-02,False,Straight Cut Shoes,119.9,ZARA1299,Asia,3477.1,29,Spring,2230,Limited,Straight Cut
+Shoes,Burgundy,2026-02-02,True,Oversized Shoes,149.9,ZARA1300,Australia,20686.2,138,Summer,13754,In Stock,Oversized
+Shoes,Navy,2026-02-02,True,Tailored Shoes,89.9,ZARA1301,Asia,14563.8,162,Spring,612,Limited,Tailored
+Shoes,Navy,2026-02-02,False,Wide Leg Shoes,149.9,ZARA1302,Australia,4646.9,31,Winter,1203,Limited,Wide Leg
+Shoes,Black,2026-02-02,False,Structured Shoes,59.9,ZARA1303,Asia,5211.3,87,Winter,2829,Low Stock,Structured
+Shoes,Mint,2026-02-02,True,Wide Leg Shoes,89.9,ZARA1304,Europe,16271.9,181,Fall,6331,In Stock,Wide Leg
+Shoes,Ecru,2026-02-02,False,Relaxed Fit Shoes,119.9,ZARA1305,South America,6954.2,58,Summer,944,In Stock,Relaxed Fit
+Shoes,Coral,2026-02-02,False,Tailored Shoes,69.9,ZARA1306,Australia,3774.6,54,Summer,2710,Limited,Tailored
+Shoes,Navy,2026-02-02,False,Structured Shoes,69.9,ZARA1307,Europe,5032.8,72,Summer,1120,Low Stock,Structured
+Shoes,Coral,2026-02-02,False,Minimalist Shoes,119.9,ZARA1308,Asia,5395.5,45,Fall,2894,In Stock,Minimalist
+Shoes,Mint,2026-02-02,True,Tailored Shoes,129.9,ZARA1309,North America,10781.7,83,Spring,14313,In Stock,Tailored
+Shoes,Stone,2026-02-02,False,Straight Cut Shoes,139.9,ZARA1310,Asia,11052.1,79,Summer,2096,In Stock,Straight Cut
+Shoes,Burgundy,2026-02-02,True,Flowy Shoes,79.9,ZARA1311,Asia,13263.4,166,Fall,9588,In Stock,Flowy
+Shoes,Anthracite,2026-02-02,False,Straight Cut Shoes,79.9,ZARA1312,Australia,1677.9,21,Fall,1666,Limited,Straight Cut
+Shoes,Khaki,2026-02-02,False,Flowy Shoes,139.9,ZARA1313,South America,7554.6,54,Summer,573,Low Stock,Flowy
+Shoes,Stone,2026-02-02,False,Flowy Shoes,89.9,ZARA1314,North America,1618.2,18,Spring,1589,Low Stock,Flowy
+Shoes,Light Blue,2026-02-02,True,Cropped Shoes,69.9,ZARA1315,South America,5731.8,82,Spring,11242,In Stock,Cropped
+Shoes,Rust,2026-02-02,True,Fitted Shoes,119.9,ZARA1316,South America,19903.4,166,Fall,14543,In Stock,Fitted
+Shoes,Coral,2026-02-02,True,Fitted Shoes,139.9,ZARA1317,Europe,8673.8,62,Summer,13450,Low Stock,Fitted
+Shoes,Burgundy,2026-02-02,False,Straight Cut Shoes,79.9,ZARA1318,Asia,799.0,10,Spring,2779,Low Stock,Straight Cut
+Shoes,Beige,2026-02-02,False,Minimalist Shoes,109.9,ZARA1319,Europe,7143.5,65,Summer,674,In Stock,Minimalist
+Shoes,Black,2026-02-02,False,Relaxed Fit Shoes,89.9,ZARA1320,Australia,4944.5,55,Summer,470,Limited,Relaxed Fit
+Shoes,Stone,2026-02-02,False,Fitted Shoes,109.9,ZARA1321,Australia,2527.7,23,Summer,600,Low Stock,Fitted
+Shoes,Mint,2026-02-02,False,Structured Shoes,129.9,ZARA1322,Asia,2208.3,17,Fall,528,Limited,Structured
+Shoes,Navy,2026-02-02,True,Wide Leg Shoes,119.9,ZARA1323,Australia,20502.9,171,Spring,2556,Limited,Wide Leg
+Shoes,White,2026-02-02,False,Oversized Shoes,139.9,ZARA1324,Asia,13010.7,93,Winter,2595,In Stock,Oversized
+Shoes,White,2026-02-02,True,Structured Shoes,139.9,ZARA1325,Australia,19725.9,141,Spring,1449,In Stock,Structured
+Shoes,Light Blue,2026-02-02,False,Oversized Shoes,129.9,ZARA1326,North America,3767.1,29,Spring,2837,Low Stock,Oversized
+Shoes,Ecru,2026-02-02,False,Minimalist Shoes,59.9,ZARA1327,South America,4432.6,74,Summer,2111,Limited,Minimalist
+Shoes,Khaki,2026-02-02,False,Relaxed Fit Shoes,109.9,ZARA1328,Australia,2198.0,20,Summer,675,Low Stock,Relaxed Fit
+Shoes,Burgundy,2026-02-02,True,Straight Cut Shoes,79.9,ZARA1329,Asia,10307.1,129,Summer,9966,Low Stock,Straight Cut
+Shoes,Khaki,2026-02-02,False,Cropped Shoes,129.9,ZARA1330,North America,8833.2,68,Summer,1972,In Stock,Cropped
+Shoes,Light Blue,2026-02-02,False,Tailored Shoes,79.9,ZARA1331,Europe,3355.8,42,Summer,2013,Limited,Tailored
+Shoes,Anthracite,2026-02-02,True,Tailored Shoes,129.9,ZARA1332,North America,6754.8,52,Summer,7775,In Stock,Tailored
+Shoes,Black,2026-02-02,False,Relaxed Fit Shoes,119.9,ZARA1333,North America,8512.9,71,Summer,1255,Low Stock,Relaxed Fit
+Bags,Navy,2026-02-02,True,Structured Bags,119.9,ZARA1334,Europe,13668.6,114,Fall,3138,Low Stock,Structured
+Bags,Black,2026-02-02,False,Fitted Bags,109.9,ZARA1335,North America,2637.6,24,Winter,1618,In Stock,Fitted
+Bags,Burgundy,2026-02-02,False,Relaxed Fit Bags,79.9,ZARA1336,Europe,878.9,11,Fall,1213,Low Stock,Relaxed Fit
+Bags,Khaki,2026-02-02,False,Tailored Bags,119.9,ZARA1337,North America,9472.1,79,Winter,2696,Low Stock,Tailored
+Bags,Khaki,2026-02-02,True,Relaxed Fit Bags,59.9,ZARA1338,Australia,3474.2,58,Fall,5741,Limited,Relaxed Fit
+Bags,Khaki,2026-02-02,False,Straight Cut Bags,129.9,ZARA1339,North America,9093.0,70,Fall,2083,Low Stock,Straight Cut
+Bags,White,2026-02-02,False,Wide Leg Bags,69.9,ZARA1340,Europe,3075.6,44,Fall,135,In Stock,Wide Leg
+Bags,Coral,2026-02-02,False,Relaxed Fit Bags,109.9,ZARA1341,Asia,2307.9,21,Fall,1911,Limited,Relaxed Fit
+Bags,Lilac,2026-02-02,True,Relaxed Fit Bags,149.9,ZARA1342,North America,20836.1,139,Fall,2478,Low Stock,Relaxed Fit
+Bags,Black,2026-02-02,False,Relaxed Fit Bags,189.9,ZARA1343,South America,3798.0,20,Spring,1323,Limited,Relaxed Fit
+Bags,Khaki,2026-02-02,False,Wide Leg Bags,139.9,ZARA1344,Europe,8533.9,61,Summer,1828,In Stock,Wide Leg
+Bags,Mint,2026-02-02,False,Straight Cut Bags,99.9,ZARA1345,Asia,2697.3,27,Winter,2856,Limited,Straight Cut
+Bags,Navy,2026-02-02,False,Wide Leg Bags,109.9,ZARA1346,North America,10550.4,96,Summer,2118,Low Stock,Wide Leg
+Bags,Khaki,2026-02-02,False,Structured Bags,179.9,ZARA1347,North America,13492.5,75,Fall,196,Limited,Structured
+Bags,Camel,2026-02-02,False,Flowy Bags,159.9,ZARA1348,Australia,6396.0,40,Spring,1153,Limited,Flowy
+Bags,Burgundy,2026-02-02,True,Oversized Bags,119.9,ZARA1349,South America,22781.0,190,Spring,2313,Limited,Oversized
+Bags,Mint,2026-02-02,False,Structured Bags,99.9,ZARA1350,Asia,6493.5,65,Summer,2175,Low Stock,Structured
+Bags,Stone,2026-02-02,False,Fitted Bags,99.9,ZARA1351,Europe,5094.9,51,Spring,2975,Low Stock,Fitted
+Bags,Burgundy,2026-02-02,False,Oversized Bags,59.9,ZARA1352,Europe,1617.3,27,Winter,2701,Low Stock,Oversized
+Bags,Rust,2026-02-02,False,Structured Bags,149.9,ZARA1353,South America,1499.0,10,Winter,321,Limited,Structured
+Bags,Ecru,2026-02-02,False,Oversized Bags,79.9,ZARA1354,South America,5672.9,71,Fall,2896,In Stock,Oversized
+Bags,Light Blue,2026-02-02,True,Flowy Bags,79.9,ZARA1355,Australia,13902.6,174,Winter,13927,In Stock,Flowy
+Bags,Khaki,2026-02-02,True,Tailored Bags,69.9,ZARA1356,Asia,11883.0,170,Spring,8751,Limited,Tailored
+Bags,Stone,2026-02-02,False,Wide Leg Bags,59.9,ZARA1357,North America,4432.6,74,Fall,2408,Limited,Wide Leg
+Bags,Light Blue,2026-02-02,True,Wide Leg Bags,89.9,ZARA1358,Australia,5843.5,65,Spring,2135,Low Stock,Wide Leg
+Bags,Oyster White,2026-02-02,False,Structured Bags,139.9,ZARA1359,Europe,1399.0,10,Summer,1552,Low Stock,Structured
+Bags,Light Blue,2026-02-02,False,Cropped Bags,129.9,ZARA1360,South America,10002.3,77,Winter,2783,Low Stock,Cropped
+Bags,Beige,2026-02-02,True,Cropped Bags,139.9,ZARA1361,South America,9233.4,66,Winter,13675,In Stock,Cropped
+Bags,White,2026-02-02,False,Cropped Bags,199.9,ZARA1362,South America,8395.8,42,Fall,2012,Low Stock,Cropped
+Bags,Lilac,2026-02-02,False,Cropped Bags,179.9,ZARA1363,South America,3957.8,22,Spring,287,In Stock,Cropped
+Bags,Mint,2026-02-02,False,Tailored Bags,189.9,ZARA1364,Asia,10634.4,56,Fall,459,Low Stock,Tailored
+Bags,Khaki,2026-02-02,False,Straight Cut Bags,89.9,ZARA1365,Europe,5933.4,66,Spring,1855,Low Stock,Straight Cut
+Bags,Camel,2026-02-02,True,Relaxed Fit Bags,169.9,ZARA1366,South America,32960.6,194,Spring,5576,In Stock,Relaxed Fit
+Bags,Camel,2026-02-02,False,Fitted Bags,169.9,ZARA1367,South America,9004.7,53,Winter,2106,Limited,Fitted
+Bags,Anthracite,2026-02-02,False,Oversized Bags,109.9,ZARA1368,South America,2637.6,24,Fall,1371,Limited,Oversized
+Bags,Black,2026-02-02,True,Flowy Bags,59.9,ZARA1369,Asia,13237.9,221,Winter,9793,In Stock,Flowy
+Bags,Camel,2026-02-02,False,Straight Cut Bags,89.9,ZARA1370,North America,5304.1,59,Winter,2082,Low Stock,Straight Cut
+Bags,White,2026-02-02,False,Flowy Bags,69.9,ZARA1371,South America,1957.2,28,Winter,1415,In Stock,Flowy
+Bags,Mint,2026-02-02,True,Oversized Bags,119.9,ZARA1372,Asia,10311.4,86,Fall,8112,Low Stock,Oversized
+Bags,Anthracite,2026-02-02,False,Wide Leg Bags,189.9,ZARA1373,North America,13482.9,71,Fall,2008,In Stock,Wide Leg
+Bags,Mint,2026-02-02,False,Fitted Bags,139.9,ZARA1374,Europe,8813.7,63,Spring,1851,Low Stock,Fitted
+Bags,Oyster White,2026-02-02,False,Cropped Bags,99.9,ZARA1375,Asia,6093.9,61,Fall,761,Low Stock,Cropped
+Bags,Camel,2026-02-02,False,Oversized Bags,149.9,ZARA1376,Europe,1499.0,10,Summer,1453,Low Stock,Oversized
+Bags,Beige,2026-02-02,False,Relaxed Fit Bags,79.9,ZARA1377,South America,5912.6,74,Winter,2034,Limited,Relaxed Fit
+Bags,Black,2026-02-02,True,Structured Bags,109.9,ZARA1378,North America,15715.7,143,Summer,14715,Low Stock,Structured
+Bags,Khaki,2026-02-02,False,Cropped Bags,109.9,ZARA1379,Asia,1538.6,14,Spring,116,Limited,Cropped
+Bags,Burgundy,2026-02-02,False,Straight Cut Bags,149.9,ZARA1380,Europe,4796.8,32,Winter,1774,In Stock,Straight Cut
+Bags,Beige,2026-02-02,False,Structured Bags,159.9,ZARA1381,Asia,8634.6,54,Winter,751,Low Stock,Structured
+Bags,Mint,2026-02-02,False,Oversized Bags,129.9,ZARA1382,South America,8833.2,68,Winter,533,In Stock,Oversized
+Bags,Burgundy,2026-02-02,False,Minimalist Bags,109.9,ZARA1383,Europe,4615.8,42,Fall,1442,Low Stock,Minimalist
+Bags,Ecru,2026-02-02,False,Tailored Bags,139.9,ZARA1384,North America,6855.1,49,Fall,2613,Low Stock,Tailored
+Bags,Ecru,2026-02-02,False,Fitted Bags,159.9,ZARA1385,South America,12472.2,78,Summer,831,Low Stock,Fitted
+Bags,Rust,2026-02-02,False,Flowy Bags,39.9,ZARA1386,Asia,2952.6,74,Summer,1838,In Stock,Flowy
+Bags,Ecru,2026-02-02,False,Straight Cut Bags,119.9,ZARA1387,Europe,11270.6,94,Spring,595,Limited,Straight Cut
+Bags,Light Blue,2026-02-02,False,Fitted Bags,69.9,ZARA1388,Asia,1957.2,28,Spring,1456,In Stock,Fitted
+Bags,Mint,2026-02-02,True,Fitted Bags,129.9,ZARA1389,Asia,17406.6,134,Summer,13658,Limited,Fitted
+Bags,Navy,2026-02-02,False,Cropped Bags,119.9,ZARA1390,Australia,10910.9,91,Spring,730,Low Stock,Cropped
+Bags,Lilac,2026-02-02,False,Straight Cut Bags,59.9,ZARA1391,Europe,4073.2,68,Spring,2983,Low Stock,Straight Cut
+Bags,Coral,2026-02-02,False,Wide Leg Bags,109.9,ZARA1392,South America,8462.3,77,Summer,825,Low Stock,Wide Leg
+Bags,Coral,2026-02-02,False,Flowy Bags,99.9,ZARA1393,North America,5994.0,60,Winter,2304,Low Stock,Flowy
+Bags,White,2026-02-02,False,Cropped Bags,69.9,ZARA1394,South America,5172.6,74,Winter,1595,Limited,Cropped
+Bags,Mint,2026-02-02,True,Flowy Bags,139.9,ZARA1395,South America,25741.6,184,Summer,8638,Limited,Flowy
+Bags,Oyster White,2026-02-02,False,Straight Cut Bags,49.9,ZARA1396,Europe,1447.1,29,Summer,2352,Limited,Straight Cut
+Bags,White,2026-02-02,False,Oversized Bags,39.9,ZARA1397,Australia,3391.5,85,Summer,2667,Limited,Oversized
+Bags,White,2026-02-02,False,Straight Cut Bags,189.9,ZARA1398,Australia,11014.2,58,Fall,1616,Limited,Straight Cut
+Bags,Khaki,2026-02-02,False,Cropped Bags,79.9,ZARA1399,Australia,2317.1,29,Fall,2714,Limited,Cropped
+Bags,Lilac,2026-02-02,False,Relaxed Fit Bags,49.9,ZARA1400,South America,3692.6,74,Winter,217,In Stock,Relaxed Fit
+Bags,Light Blue,2026-02-02,False,Oversized Bags,39.9,ZARA1401,Asia,3112.2,78,Winter,1829,Low Stock,Oversized
+Bags,Mint,2026-02-02,False,Minimalist Bags,179.9,ZARA1402,Asia,4497.5,25,Summer,2409,Limited,Minimalist
+Bags,White,2026-02-02,False,Cropped Bags,189.9,ZARA1403,Asia,13672.8,72,Winter,2707,Low Stock,Cropped
+Bags,Beige,2026-02-02,True,Cropped Bags,119.9,ZARA1404,North America,20862.6,174,Summer,12952,In Stock,Cropped
+Bags,Light Blue,2026-02-02,False,Oversized Bags,119.9,ZARA1405,Australia,9592.0,80,Winter,1006,Limited,Oversized
+Bags,Black,2026-02-02,False,Fitted Bags,159.9,ZARA1406,South America,5756.4,36,Summer,2282,In Stock,Fitted
+Bags,Stone,2026-02-02,False,Structured Bags,189.9,ZARA1407,Australia,1899.0,10,Spring,2217,In Stock,Structured
+Bags,Stone,2026-02-02,False,Relaxed Fit Bags,159.9,ZARA1408,Asia,1758.9,11,Fall,953,Limited,Relaxed Fit
+Bags,Light Blue,2026-02-02,False,Wide Leg Bags,129.9,ZARA1409,Europe,6365.1,49,Winter,1885,In Stock,Wide Leg
+Bags,Beige,2026-02-02,True,Structured Bags,69.9,ZARA1410,Australia,12162.6,174,Fall,642,Limited,Structured
+Bags,Anthracite,2026-02-02,False,Oversized Bags,179.9,ZARA1411,Asia,13852.3,77,Spring,810,Limited,Oversized
+Bags,Oyster White,2026-02-02,True,Wide Leg Bags,79.9,ZARA1412,Australia,8709.1,109,Fall,7870,In Stock,Wide Leg
+Bags,Stone,2026-02-02,True,Cropped Bags,99.9,ZARA1413,South America,7292.7,73,Fall,4648,In Stock,Cropped
+Bags,White,2026-02-02,False,Flowy Bags,49.9,ZARA1414,Australia,3742.5,75,Winter,1142,Limited,Flowy
+Bags,Black,2026-02-02,False,Wide Leg Bags,39.9,ZARA1415,Europe,3351.6,84,Winter,739,Limited,Wide Leg
+Bags,Stone,2026-02-02,False,Wide Leg Bags,169.9,ZARA1416,Asia,13592.0,80,Summer,1147,Limited,Wide Leg
+Bags,Khaki,2026-02-02,False,Oversized Bags,49.9,ZARA1417,Australia,3592.8,72,Spring,1424,In Stock,Oversized
+Bags,Black,2026-02-02,False,Tailored Bags,99.9,ZARA1418,Australia,5394.6,54,Summer,1755,Limited,Tailored
+Bags,Burgundy,2026-02-02,False,Minimalist Bags,129.9,ZARA1419,South America,7923.9,61,Summer,1689,Limited,Minimalist
+Bags,Navy,2026-02-02,False,Fitted Bags,149.9,ZARA1420,South America,10792.8,72,Fall,2075,In Stock,Fitted
+Bags,Mint,2026-02-02,True,Fitted Bags,109.9,ZARA1421,Europe,14836.5,135,Summer,10125,Limited,Fitted
+Bags,Ecru,2026-02-02,False,Flowy Bags,159.9,ZARA1422,North America,10713.3,67,Fall,2976,Low Stock,Flowy
+Bags,Lilac,2026-02-02,False,Relaxed Fit Bags,99.9,ZARA1423,South America,7992.0,80,Summer,2361,In Stock,Relaxed Fit
+Bags,Anthracite,2026-02-02,False,Tailored Bags,139.9,ZARA1424,South America,3917.2,28,Summer,2205,Limited,Tailored
+Bags,Stone,2026-02-02,False,Cropped Bags,199.9,ZARA1425,North America,9595.2,48,Spring,775,Limited,Cropped
+Bags,Burgundy,2026-02-02,True,Relaxed Fit Bags,79.9,ZARA1426,Europe,4873.9,61,Winter,11896,In Stock,Relaxed Fit
+Bags,Anthracite,2026-02-02,False,Flowy Bags,169.9,ZARA1427,Australia,12572.6,74,Winter,1872,In Stock,Flowy
+Bags,Black,2026-02-02,False,Fitted Bags,179.9,ZARA1428,Asia,5576.9,31,Summer,2007,Low Stock,Fitted
+Bags,Camel,2026-02-02,True,Wide Leg Bags,179.9,ZARA1429,Australia,28784.0,160,Winter,5700,In Stock,Wide Leg
+Bags,Black,2026-02-02,True,Cropped Bags,189.9,ZARA1430,Australia,48804.3,257,Summer,13323,Limited,Cropped
+Outerwear,Stone,2026-02-02,False,Wide Leg Outerwear,289.9,ZARA1431,Europe,22902.1,79,Fall,432,Limited,Wide Leg
+Outerwear,Burgundy,2026-02-02,False,Wide Leg Outerwear,289.9,ZARA1432,South America,10726.3,37,Summer,436,In Stock,Wide Leg
+Outerwear,Rust,2026-02-02,False,Flowy Outerwear,139.9,ZARA1433,Europe,11052.1,79,Fall,2312,Low Stock,Flowy
+Outerwear,Anthracite,2026-02-02,False,Minimalist Outerwear,149.9,ZARA1434,Europe,7345.1,49,Winter,2601,Low Stock,Minimalist
+Outerwear,Camel,2026-02-02,False,Relaxed Fit Outerwear,219.9,ZARA1435,South America,14293.5,65,Summer,1444,Low Stock,Relaxed Fit
+Outerwear,White,2026-02-02,False,Oversized Outerwear,109.9,ZARA1436,Asia,11539.5,105,Winter,946,In Stock,Oversized
+Outerwear,Stone,2026-02-02,False,Tailored Outerwear,69.9,ZARA1437,Australia,1258.2,18,Summer,1333,Low Stock,Tailored
+Outerwear,Light Blue,2026-02-02,False,Relaxed Fit Outerwear,179.9,ZARA1438,South America,5397.0,30,Fall,1061,In Stock,Relaxed Fit
+Outerwear,Black,2026-02-02,False,Structured Outerwear,199.9,ZARA1439,Australia,6996.5,35,Summer,1268,Limited,Structured
+Outerwear,Khaki,2026-02-02,False,Cropped Outerwear,269.9,ZARA1440,Europe,2968.9,11,Summer,1240,Low Stock,Cropped
+Outerwear,Black,2026-02-02,False,Straight Cut Outerwear,289.9,ZARA1441,Asia,23771.8,82,Winter,1860,In Stock,Straight Cut
+Outerwear,Ecru,2026-02-02,False,Cropped Outerwear,229.9,ZARA1442,North America,9196.0,40,Summer,1784,Limited,Cropped
+Outerwear,Stone,2026-02-02,False,Wide Leg Outerwear,179.9,ZARA1443,Australia,14212.1,79,Fall,2353,Limited,Wide Leg
+Outerwear,Coral,2026-02-02,False,Oversized Outerwear,259.9,ZARA1444,Europe,10396.0,40,Winter,273,In Stock,Oversized
+Outerwear,Rust,2026-02-02,False,Straight Cut Outerwear,169.9,ZARA1445,Europe,5776.6,34,Fall,2783,In Stock,Straight Cut
+Outerwear,Rust,2026-02-02,False,Structured Outerwear,289.9,ZARA1446,Asia,21452.6,74,Fall,1891,Limited,Structured
+Outerwear,White,2026-02-02,False,Cropped Outerwear,289.9,ZARA1447,Australia,40586.0,140,Winter,2434,In Stock,Cropped
+Outerwear,Light Blue,2026-02-02,True,Flowy Outerwear,209.9,ZARA1448,Australia,11124.7,53,Spring,13309,Low Stock,Flowy
+Outerwear,Khaki,2026-02-02,False,Fitted Outerwear,119.9,ZARA1449,North America,5755.2,48,Fall,1363,Limited,Fitted
+Outerwear,White,2026-02-02,True,Straight Cut Outerwear,249.9,ZARA1450,Asia,16493.4,66,Summer,3037,Limited,Straight Cut
+Outerwear,Stone,2026-02-02,True,Wide Leg Outerwear,209.9,ZARA1451,Australia,55413.6,264,Winter,2210,Low Stock,Wide Leg
+Outerwear,Anthracite,2026-02-02,False,Fitted Outerwear,139.9,ZARA1452,Asia,5456.1,39,Summer,2092,Limited,Fitted
+Outerwear,Oyster White,2026-02-02,False,Fitted Outerwear,259.9,ZARA1453,South America,7797.0,30,Winter,2885,In Stock,Fitted
+Outerwear,Khaki,2026-02-02,True,Oversized Outerwear,199.9,ZARA1454,Australia,51174.4,256,Winter,8956,Low Stock,Oversized
+Outerwear,White,2026-02-02,False,Straight Cut Outerwear,169.9,ZARA1455,Australia,15630.8,92,Winter,773,In Stock,Straight Cut
+Outerwear,Oyster White,2026-02-02,False,Minimalist Outerwear,149.9,ZARA1456,North America,2698.2,18,Spring,957,Low Stock,Minimalist
+Outerwear,Oyster White,2026-02-02,True,Fitted Outerwear,149.9,ZARA1457,Australia,23834.1,159,Spring,2265,Low Stock,Fitted
+Outerwear,Oyster White,2026-02-02,True,Relaxed Fit Outerwear,209.9,ZARA1458,South America,23089.0,110,Winter,9100,In Stock,Relaxed Fit
+Outerwear,Lilac,2026-02-02,False,Wide Leg Outerwear,149.9,ZARA1459,Asia,5246.5,35,Spring,382,Limited,Wide Leg
+Outerwear,Navy,2026-02-02,False,Wide Leg Outerwear,219.9,ZARA1460,Asia,10115.4,46,Winter,2722,Limited,Wide Leg
+Outerwear,Black,2026-02-02,False,Cropped Outerwear,289.9,ZARA1461,South America,27830.4,96,Summer,1783,Low Stock,Cropped
+Outerwear,Mint,2026-02-02,False,Wide Leg Outerwear,109.9,ZARA1462,North America,7253.4,66,Summer,2798,In Stock,Wide Leg
+Outerwear,Oyster White,2026-02-02,False,Flowy Outerwear,159.9,ZARA1463,Asia,1758.9,11,Fall,1999,Limited,Flowy
+Outerwear,Mint,2026-02-02,False,Wide Leg Outerwear,249.9,ZARA1464,North America,14744.1,59,Spring,1171,In Stock,Wide Leg
+Outerwear,Khaki,2026-02-02,True,Straight Cut Outerwear,229.9,ZARA1465,Europe,15863.1,69,Spring,8328,Limited,Straight Cut
+Outerwear,Black,2026-02-02,False,Relaxed Fit Outerwear,119.9,ZARA1466,North America,7553.7,63,Fall,220,Limited,Relaxed Fit
+Outerwear,Oyster White,2026-02-02,False,Tailored Outerwear,69.9,ZARA1467,North America,6221.1,89,Winter,230,Limited,Tailored
+Outerwear,Camel,2026-02-02,False,Structured Outerwear,189.9,ZARA1468,South America,14052.6,74,Summer,2692,Low Stock,Structured
+Outerwear,Ecru,2026-02-02,False,Oversized Outerwear,99.9,ZARA1469,Australia,4495.5,45,Fall,1074,Limited,Oversized
+Outerwear,Khaki,2026-02-02,False,Tailored Outerwear,169.9,ZARA1470,Europe,12402.7,73,Spring,2421,In Stock,Tailored
+Outerwear,Camel,2026-02-02,False,Straight Cut Outerwear,79.9,ZARA1471,North America,4714.1,59,Spring,113,Low Stock,Straight Cut
+Outerwear,Ecru,2026-02-02,False,Structured Outerwear,289.9,ZARA1472,South America,28990.0,100,Summer,343,In Stock,Structured
+Outerwear,Khaki,2026-02-02,False,Straight Cut Outerwear,139.9,ZARA1473,Australia,14969.3,107,Winter,2284,Limited,Straight Cut
+Outerwear,Light Blue,2026-02-02,False,Oversized Outerwear,219.9,ZARA1474,North America,3298.5,15,Winter,113,In Stock,Oversized
+Outerwear,Rust,2026-02-02,True,Relaxed Fit Outerwear,259.9,ZARA1475,Asia,27289.5,105,Summer,756,In Stock,Relaxed Fit
+Outerwear,Camel,2026-02-02,False,Wide Leg Outerwear,69.9,ZARA1476,Australia,1677.6,24,Summer,2094,In Stock,Wide Leg
+Outerwear,Ecru,2026-02-02,False,Fitted Outerwear,269.9,ZARA1477,North America,8906.7,33,Summer,2383,In Stock,Fitted
+Outerwear,Ecru,2026-02-02,True,Minimalist Outerwear,199.9,ZARA1478,Australia,34382.8,172,Winter,13067,Low Stock,Minimalist
+Outerwear,Mint,2026-02-02,False,Structured Outerwear,129.9,ZARA1479,South America,1688.7,13,Spring,573,In Stock,Structured
+Outerwear,Camel,2026-02-02,False,Tailored Outerwear,69.9,ZARA1480,Australia,4054.2,58,Fall,1980,Low Stock,Tailored
+Outerwear,Light Blue,2026-02-02,False,Structured Outerwear,189.9,ZARA1481,Europe,2848.5,15,Spring,1152,In Stock,Structured
+Outerwear,Rust,2026-02-02,False,Straight Cut Outerwear,129.9,ZARA1482,North America,2468.1,19,Fall,1765,In Stock,Straight Cut
+Outerwear,White,2026-02-02,False,Straight Cut Outerwear,259.9,ZARA1483,Australia,21051.9,81,Summer,777,Low Stock,Straight Cut
+Outerwear,Khaki,2026-02-02,False,Wide Leg Outerwear,139.9,ZARA1484,North America,15249.1,109,Winter,417,In Stock,Wide Leg
+Outerwear,Anthracite,2026-02-02,False,Tailored Outerwear,229.9,ZARA1485,Europe,3908.3,17,Summer,1003,Low Stock,Tailored
+Outerwear,Anthracite,2026-02-02,False,Structured Outerwear,89.9,ZARA1486,Australia,2517.2,28,Winter,2808,In Stock,Structured
+Outerwear,Camel,2026-02-02,True,Fitted Outerwear,99.9,ZARA1487,Australia,9090.9,91,Fall,10015,Low Stock,Fitted
+Outerwear,Oyster White,2026-02-02,False,Tailored Outerwear,149.9,ZARA1488,North America,6445.7,43,Fall,2300,In Stock,Tailored
+Outerwear,Navy,2026-02-02,True,Wide Leg Outerwear,129.9,ZARA1489,Australia,22602.6,174,Spring,14900,In Stock,Wide Leg
+Outerwear,Stone,2026-02-02,False,Minimalist Outerwear,249.9,ZARA1490,Australia,22990.8,92,Winter,1687,Low Stock,Minimalist
+Outerwear,Light Blue,2026-02-02,False,Relaxed Fit Outerwear,209.9,ZARA1491,Europe,8396.0,40,Summer,2998,In Stock,Relaxed Fit
+Outerwear,Coral,2026-02-02,False,Fitted Outerwear,79.9,ZARA1492,North America,7350.8,92,Winter,661,Limited,Fitted
+Outerwear,Rust,2026-02-02,False,Structured Outerwear,189.9,ZARA1493,North America,6646.5,35,Spring,2056,In Stock,Structured
+Outerwear,Rust,2026-02-02,False,Straight Cut Outerwear,259.9,ZARA1494,North America,18972.7,73,Fall,2058,In Stock,Straight Cut
+Outerwear,Black,2026-02-02,True,Relaxed Fit Outerwear,159.9,ZARA1495,South America,35657.7,223,Fall,8832,Limited,Relaxed Fit
+Outerwear,Burgundy,2026-02-02,True,Structured Outerwear,239.9,ZARA1496,South America,18952.1,79,Summer,14617,In Stock,Structured
+Outerwear,Camel,2026-02-02,False,Minimalist Outerwear,119.9,ZARA1497,North America,5755.2,48,Summer,318,Limited,Minimalist
+Outerwear,Burgundy,2026-02-02,False,Relaxed Fit Outerwear,119.9,ZARA1498,Asia,3956.7,33,Summer,2402,Low Stock,Relaxed Fit
+Outerwear,Black,2026-02-02,True,Oversized Outerwear,289.9,ZARA1499,Australia,84650.8,292,Winter,6831,Low Stock,Oversized
